@@ -4,8 +4,8 @@
   <element>
     <type>com.umlet.element.Actor</type>
     <coordinates>
-      <x>288</x>
-      <y>486</y>
+      <x>270</x>
+      <y>480</y>
       <w>96</w>
       <h>72</h>
     </coordinates>
@@ -16,8 +16,8 @@ de formation</panel_attributes>
   <element>
     <type>com.umlet.element.Actor</type>
     <coordinates>
-      <x>312</x>
-      <y>18</y>
+      <x>294</x>
+      <y>12</y>
       <w>48</w>
       <h>72</h>
     </coordinates>
@@ -27,8 +27,8 @@ de formation</panel_attributes>
   <element>
     <type>com.umlet.element.Actor</type>
     <coordinates>
-      <x>330</x>
-      <y>306</y>
+      <x>312</x>
+      <y>300</y>
       <w>48</w>
       <h>72</h>
     </coordinates>
@@ -38,8 +38,8 @@ de formation</panel_attributes>
   <element>
     <type>com.umlet.element.Actor</type>
     <coordinates>
-      <x>216</x>
-      <y>1344</y>
+      <x>198</x>
+      <y>1338</y>
       <w>120</w>
       <h>84</h>
     </coordinates>
@@ -51,8 +51,8 @@ administratif FC
   <element>
     <type>com.umlet.element.Actor</type>
     <coordinates>
-      <x>288</x>
-      <y>810</y>
+      <x>270</x>
+      <y>804</y>
       <w>96</w>
       <h>72</h>
     </coordinates>
@@ -63,8 +63,8 @@ pédagogique</panel_attributes>
   <element>
     <type>com.umlet.element.Actor</type>
     <coordinates>
-      <x>222</x>
-      <y>1224</y>
+      <x>204</x>
+      <y>1218</y>
       <w>120</w>
       <h>84</h>
     </coordinates>
@@ -76,8 +76,8 @@ administratif CP
   <element>
     <type>com.umlet.element.Actor</type>
     <coordinates>
-      <x>210</x>
-      <y>1548</y>
+      <x>192</x>
+      <y>1542</y>
       <w>120</w>
       <h>84</h>
     </coordinates>
@@ -88,8 +88,8 @@ administratif CP
   <element>
     <type>com.umlet.element.Actor</type>
     <coordinates>
-      <x>210</x>
-      <y>1428</y>
+      <x>192</x>
+      <y>1422</y>
       <w>120</w>
       <h>84</h>
     </coordinates>
@@ -101,8 +101,8 @@ entreprise
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>408</x>
-      <y>30</y>
+      <x>390</x>
+      <y>24</y>
       <w>72</w>
       <h>24</h>
     </coordinates>
@@ -113,8 +113,8 @@ entreprise
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>540</x>
-      <y>66</y>
+      <x>522</x>
+      <y>60</y>
       <w>96</w>
       <h>30</h>
     </coordinates>
@@ -125,8 +125,8 @@ dossier de réponse</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>534</x>
-      <y>24</y>
+      <x>516</x>
+      <y>18</y>
       <w>96</w>
       <h>30</h>
     </coordinates>
@@ -137,8 +137,8 @@ d'émargement</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>456</x>
-      <y>6</y>
+      <x>438</x>
+      <y>0</y>
       <w>90</w>
       <h>42</h>
     </coordinates>
@@ -149,8 +149,8 @@ d'émargement</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>462</x>
-      <y>24</y>
+      <x>444</x>
+      <y>18</y>
       <w>96</w>
       <h>60</h>
     </coordinates>
@@ -161,8 +161,8 @@ d'émargement</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>336</x>
-      <y>18</y>
+      <x>318</x>
+      <y>12</y>
       <w>84</w>
       <h>36</h>
     </coordinates>
@@ -172,8 +172,8 @@ d'émargement</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>432</x>
-      <y>234</y>
+      <x>414</x>
+      <y>228</y>
       <w>72</w>
       <h>24</h>
     </coordinates>
@@ -184,8 +184,8 @@ ECF</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>432</x>
-      <y>276</y>
+      <x>414</x>
+      <y>270</y>
       <w>72</w>
       <h>24</h>
     </coordinates>
@@ -195,8 +195,8 @@ ECF</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>582</x>
-      <y>240</y>
+      <x>564</x>
+      <y>234</y>
       <w>72</w>
       <h>24</h>
     </coordinates>
@@ -207,8 +207,8 @@ d'ECF</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>432</x>
-      <y>306</y>
+      <x>414</x>
+      <y>300</y>
       <w>72</w>
       <h>30</h>
     </coordinates>
@@ -219,8 +219,8 @@ ECF</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>432</x>
-      <y>342</y>
+      <x>414</x>
+      <y>336</y>
       <w>72</w>
       <h>24</h>
     </coordinates>
@@ -231,8 +231,8 @@ ECF</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>360</x>
-      <y>228</y>
+      <x>342</x>
+      <y>222</y>
       <w>84</w>
       <h>102</h>
     </coordinates>
@@ -242,8 +242,8 @@ ECF</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>360</x>
-      <y>270</y>
+      <x>342</x>
+      <y>264</y>
       <w>84</w>
       <h>60</h>
     </coordinates>
@@ -253,8 +253,8 @@ ECF</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>486</x>
-      <y>222</y>
+      <x>468</x>
+      <y>216</y>
       <w>108</w>
       <h>42</h>
     </coordinates>
@@ -265,8 +265,8 @@ ECF</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>468</x>
-      <y>234</y>
+      <x>450</x>
+      <y>228</y>
       <w>126</w>
       <h>54</h>
     </coordinates>
@@ -277,8 +277,8 @@ ECF</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>354</x>
-      <y>300</y>
+      <x>336</x>
+      <y>294</y>
       <w>90</w>
       <h>42</h>
     </coordinates>
@@ -288,8 +288,8 @@ ECF</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>354</x>
-      <y>312</y>
+      <x>336</x>
+      <y>306</y>
       <w>96</w>
       <h>48</h>
     </coordinates>
@@ -299,8 +299,8 @@ ECF</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>414</x>
-      <y>480</y>
+      <x>396</x>
+      <y>474</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -314,8 +314,8 @@ FC</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>636</x>
-      <y>618</y>
+      <x>618</x>
+      <y>612</y>
       <w>96</w>
       <h>30</h>
     </coordinates>
@@ -326,8 +326,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>414</x>
-      <y>432</y>
+      <x>396</x>
+      <y>426</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -341,8 +341,8 @@ FC</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>822</x>
-      <y>612</y>
+      <x>804</x>
+      <y>606</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -354,8 +354,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>486</x>
-      <y>444</y>
+      <x>468</x>
+      <y>438</y>
       <w>348</w>
       <h>198</h>
     </coordinates>
@@ -367,8 +367,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>492</x>
-      <y>480</y>
+      <x>474</x>
+      <y>474</y>
       <w>342</w>
       <h>168</h>
     </coordinates>
@@ -380,8 +380,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>414</x>
-      <y>582</y>
+      <x>396</x>
+      <y>576</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -393,8 +393,8 @@ aux FC</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>414</x>
-      <y>636</y>
+      <x>396</x>
+      <y>630</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -406,8 +406,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>420</x>
-      <y>690</y>
+      <x>402</x>
+      <y>684</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -419,8 +419,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>414</x>
-      <y>534</y>
+      <x>396</x>
+      <y>528</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -432,8 +432,8 @@ planning aux FC</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>528</x>
-      <y>618</y>
+      <x>510</x>
+      <y>612</y>
       <w>96</w>
       <h>30</h>
     </coordinates>
@@ -444,8 +444,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>492</x>
-      <y>540</y>
+      <x>474</x>
+      <y>534</y>
       <w>168</w>
       <h>96</h>
     </coordinates>
@@ -457,8 +457,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>492</x>
-      <y>624</y>
+      <x>474</x>
+      <y>618</y>
       <w>168</w>
       <h>90</h>
     </coordinates>
@@ -470,8 +470,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>486</x>
-      <y>582</y>
+      <x>468</x>
+      <y>576</y>
       <w>84</w>
       <h>48</h>
     </coordinates>
@@ -483,8 +483,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>492</x>
-      <y>624</y>
+      <x>474</x>
+      <y>618</y>
       <w>80</w>
       <h>42</h>
     </coordinates>
@@ -496,8 +496,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>342</x>
-      <y>438</y>
+      <x>324</x>
+      <y>432</y>
       <w>84</w>
       <h>78</h>
     </coordinates>
@@ -507,8 +507,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>348</x>
-      <y>480</y>
+      <x>330</x>
+      <y>474</y>
       <w>78</w>
       <h>54</h>
     </coordinates>
@@ -518,8 +518,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>348</x>
-      <y>522</y>
+      <x>330</x>
+      <y>516</y>
       <w>78</w>
       <h>42</h>
     </coordinates>
@@ -529,8 +529,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>348</x>
-      <y>534</y>
+      <x>330</x>
+      <y>528</y>
       <w>78</w>
       <h>72</h>
     </coordinates>
@@ -540,8 +540,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>414</x>
-      <y>738</y>
+      <x>396</x>
+      <y>732</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -553,8 +553,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>414</x>
-      <y>786</y>
+      <x>396</x>
+      <y>780</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -568,8 +568,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>414</x>
-      <y>834</y>
+      <x>396</x>
+      <y>828</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -583,8 +583,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>486</x>
-      <y>624</y>
+      <x>468</x>
+      <y>618</y>
       <w>354</w>
       <h>192</h>
     </coordinates>
@@ -596,8 +596,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>486</x>
-      <y>630</y>
+      <x>468</x>
+      <y>624</y>
       <w>360</w>
       <h>234</h>
     </coordinates>
@@ -609,8 +609,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>414</x>
-      <y>882</y>
+      <x>396</x>
+      <y>876</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -622,8 +622,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>414</x>
-      <y>930</y>
+      <x>396</x>
+      <y>924</y>
       <w>90</w>
       <h>42</h>
     </coordinates>
@@ -635,8 +635,8 @@ validée</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>414</x>
-      <y>978</y>
+      <x>396</x>
+      <y>972</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -648,8 +648,8 @@ pour sessions</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>414</x>
-      <y>1026</y>
+      <x>396</x>
+      <y>1020</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -661,8 +661,8 @@ dans appli VALCE
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>414</x>
-      <y>1080</y>
+      <x>396</x>
+      <y>1074</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -674,8 +674,8 @@ Campus</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>414</x>
-      <y>1134</y>
+      <x>396</x>
+      <y>1128</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -686,8 +686,8 @@ des salles</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>336</x>
-      <y>828</y>
+      <x>318</x>
+      <y>822</y>
       <w>90</w>
       <h>36</h>
     </coordinates>
@@ -697,8 +697,8 @@ des salles</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>330</x>
-      <y>864</y>
+      <x>312</x>
+      <y>858</y>
       <w>96</w>
       <h>300</h>
     </coordinates>
@@ -708,8 +708,8 @@ des salles</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>336</x>
-      <y>864</y>
+      <x>318</x>
+      <y>858</y>
       <w>90</w>
       <h>246</h>
     </coordinates>
@@ -719,8 +719,8 @@ des salles</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>342</x>
-      <y>864</y>
+      <x>324</x>
+      <y>858</y>
       <w>84</w>
       <h>192</h>
     </coordinates>
@@ -730,8 +730,8 @@ des salles</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>342</x>
-      <y>864</y>
+      <x>324</x>
+      <y>858</y>
       <w>84</w>
       <h>150</h>
     </coordinates>
@@ -741,8 +741,8 @@ des salles</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>348</x>
-      <y>864</y>
+      <x>330</x>
+      <y>858</y>
       <w>78</w>
       <h>102</h>
     </coordinates>
@@ -752,8 +752,8 @@ des salles</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>348</x>
-      <y>858</y>
+      <x>330</x>
+      <y>852</y>
       <w>78</w>
       <h>54</h>
     </coordinates>
@@ -763,8 +763,8 @@ des salles</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>336</x>
-      <y>786</y>
+      <x>318</x>
+      <y>780</y>
       <w>90</w>
       <h>66</h>
     </coordinates>
@@ -774,8 +774,8 @@ des salles</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>336</x>
-      <y>738</y>
+      <x>318</x>
+      <y>732</y>
       <w>90</w>
       <h>102</h>
     </coordinates>
@@ -785,8 +785,8 @@ des salles</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>336</x>
-      <y>690</y>
+      <x>318</x>
+      <y>684</y>
       <w>96</w>
       <h>144</h>
     </coordinates>
@@ -796,8 +796,8 @@ des salles</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>330</x>
-      <y>636</y>
+      <x>312</x>
+      <y>630</y>
       <w>96</w>
       <h>186</h>
     </coordinates>
@@ -807,8 +807,8 @@ des salles</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>408</x>
-      <y>1188</y>
+      <x>390</x>
+      <y>1182</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -820,8 +820,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>600</x>
-      <y>1272</y>
+      <x>582</x>
+      <y>1266</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -832,8 +832,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>486</x>
-      <y>1194</y>
+      <x>468</x>
+      <y>1188</y>
       <w>150</w>
       <h>90</h>
     </coordinates>
@@ -845,8 +845,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>474</x>
-      <y>1296</y>
+      <x>456</x>
+      <y>1290</y>
       <w>162</w>
       <h>66</h>
     </coordinates>
@@ -858,8 +858,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>624</x>
-      <y>1362</y>
+      <x>606</x>
+      <y>1356</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -870,8 +870,8 @@ de passage</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>402</x>
-      <y>1290</y>
+      <x>384</x>
+      <y>1284</y>
       <w>102</w>
       <h>42</h>
     </coordinates>
@@ -884,8 +884,8 @@ aux tuteurs</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>288</x>
-      <y>1188</y>
+      <x>270</x>
+      <y>1182</y>
       <w>132</w>
       <h>54</h>
     </coordinates>
@@ -895,8 +895,8 @@ aux tuteurs</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>288</x>
-      <y>1242</y>
+      <x>270</x>
+      <y>1236</y>
       <w>348</w>
       <h>150</h>
     </coordinates>
@@ -906,8 +906,8 @@ aux tuteurs</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>306</x>
-      <y>1272</y>
+      <x>288</x>
+      <y>1266</y>
       <w>108</w>
       <h>48</h>
     </coordinates>
@@ -917,8 +917,8 @@ aux tuteurs</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>408</x>
-      <y>1344</y>
+      <x>390</x>
+      <y>1338</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -930,8 +930,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>294</x>
-      <y>1344</y>
+      <x>276</x>
+      <y>1338</y>
       <w>126</w>
       <h>36</h>
     </coordinates>
@@ -941,8 +941,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>408</x>
-      <y>1452</y>
+      <x>390</x>
+      <y>1446</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -954,8 +954,8 @@ l'appli VALCE</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>408</x>
-      <y>1404</y>
+      <x>390</x>
+      <y>1398</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -968,8 +968,8 @@ fg=red</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>408</x>
-      <y>1500</y>
+      <x>390</x>
+      <y>1494</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -980,8 +980,8 @@ jurys</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>282</x>
-      <y>1368</y>
+      <x>264</x>
+      <y>1362</y>
       <w>354</w>
       <h>114</h>
     </coordinates>
@@ -991,8 +991,8 @@ jurys</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>282</x>
-      <y>1410</y>
+      <x>264</x>
+      <y>1404</y>
       <w>138</w>
       <h>72</h>
     </coordinates>
@@ -1002,8 +1002,8 @@ jurys</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>282</x>
-      <y>1452</y>
+      <x>264</x>
+      <y>1446</y>
       <w>138</w>
       <h>36</h>
     </coordinates>
@@ -1013,8 +1013,8 @@ jurys</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>282</x>
-      <y>1452</y>
+      <x>264</x>
+      <y>1446</y>
       <w>138</w>
       <h>78</h>
     </coordinates>
@@ -1024,8 +1024,8 @@ jurys</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>402</x>
-      <y>1566</y>
+      <x>384</x>
+      <y>1560</y>
       <w>102</w>
       <h>42</h>
     </coordinates>
@@ -1038,8 +1038,8 @@ aux resp admin.</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>576</x>
-      <y>1500</y>
+      <x>558</x>
+      <y>1494</y>
       <w>102</w>
       <h>42</h>
     </coordinates>
@@ -1051,8 +1051,8 @@ absences et retards</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>480</x>
-      <y>1302</y>
+      <x>462</x>
+      <y>1296</y>
       <w>120</w>
       <h>216</h>
     </coordinates>
@@ -1063,8 +1063,8 @@ absences et retards</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>486</x>
-      <y>1512</y>
+      <x>468</x>
+      <y>1506</y>
       <w>108</w>
       <h>78</h>
     </coordinates>
@@ -1075,8 +1075,8 @@ absences et retards</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>288</x>
-      <y>1566</y>
+      <x>270</x>
+      <y>1560</y>
       <w>126</w>
       <h>30</h>
     </coordinates>
@@ -1086,8 +1086,8 @@ absences et retards</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>414</x>
-      <y>180</y>
+      <x>396</x>
+      <y>174</y>
       <w>108</w>
       <h>48</h>
     </coordinates>
@@ -1100,8 +1100,8 @@ fg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>354</x>
-      <y>186</y>
+      <x>336</x>
+      <y>180</y>
       <w>72</w>
       <h>132</h>
     </coordinates>
@@ -1111,8 +1111,8 @@ fg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>402</x>
-      <y>96</y>
+      <x>384</x>
+      <y>90</y>
       <w>102</w>
       <h>36</h>
     </coordinates>
@@ -1124,8 +1124,8 @@ fg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>408</x>
-      <y>138</y>
+      <x>390</x>
+      <y>132</y>
       <w>108</w>
       <h>36</h>
     </coordinates>
@@ -1137,8 +1137,8 @@ fg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>342</x>
-      <y>138</y>
+      <x>324</x>
+      <y>132</y>
       <w>78</w>
       <h>168</h>
     </coordinates>
@@ -1148,8 +1148,8 @@ fg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>330</x>
-      <y>96</y>
+      <x>312</x>
+      <y>90</y>
       <w>84</w>
       <h>204</h>
     </coordinates>
@@ -1159,8 +1159,8 @@ fg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>138</x>
-      <y>810</y>
+      <x>120</x>
+      <y>804</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -1174,8 +1174,8 @@ résultats</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>138</x>
-      <y>660</y>
+      <x>120</x>
+      <y>654</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -1187,8 +1187,8 @@ planning</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>138</x>
-      <y>606</y>
+      <x>120</x>
+      <y>600</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -1200,8 +1200,8 @@ correction ECF</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>138</x>
-      <y>558</y>
+      <x>120</x>
+      <y>552</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -1213,8 +1213,8 @@ planning hebdo</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>138</x>
-      <y>714</y>
+      <x>120</x>
+      <y>708</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -1226,8 +1226,8 @@ planning formation</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>138</x>
-      <y>762</y>
+      <x>120</x>
+      <y>756</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -1239,8 +1239,8 @@ résultats</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>138</x>
-      <y>510</y>
+      <x>120</x>
+      <y>504</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -1251,8 +1251,8 @@ Enregistrer planning</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>102</x>
-      <y>384</y>
+      <x>84</x>
+      <y>378</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -1263,8 +1263,8 @@ Saisir avis</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>216</x>
-      <y>498</y>
+      <x>198</x>
+      <y>492</y>
       <w>114</w>
       <h>42</h>
     </coordinates>
@@ -1274,8 +1274,8 @@ Saisir avis</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>210</x>
-      <y>498</y>
+      <x>192</x>
+      <y>492</y>
       <w>120</w>
       <h>84</h>
     </coordinates>
@@ -1285,8 +1285,8 @@ Saisir avis</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>210</x>
-      <y>498</y>
+      <x>192</x>
+      <y>492</y>
       <w>120</w>
       <h>132</h>
     </coordinates>
@@ -1296,8 +1296,8 @@ Saisir avis</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>216</x>
-      <y>504</y>
+      <x>198</x>
+      <y>498</y>
       <w>114</w>
       <h>186</h>
     </coordinates>
@@ -1307,8 +1307,8 @@ Saisir avis</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>210</x>
-      <y>540</y>
+      <x>192</x>
+      <y>534</y>
       <w>114</w>
       <h>198</h>
     </coordinates>
@@ -1318,8 +1318,8 @@ Saisir avis</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>210</x>
-      <y>540</y>
+      <x>192</x>
+      <y>534</y>
       <w>120</w>
       <h>246</h>
     </coordinates>
@@ -1329,8 +1329,8 @@ Saisir avis</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>204</x>
-      <y>540</y>
+      <x>186</x>
+      <y>534</y>
       <w>132</w>
       <h>288</h>
     </coordinates>
@@ -1340,8 +1340,8 @@ Saisir avis</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>168</x>
-      <y>402</y>
+      <x>150</x>
+      <y>396</y>
       <w>72</w>
       <h>48</h>
     </coordinates>
@@ -1351,8 +1351,8 @@ Saisir avis</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>318</x>
-      <y>540</y>
+      <x>300</x>
+      <y>534</y>
       <w>36</w>
       <h>282</h>
     </coordinates>
@@ -1363,8 +1363,8 @@ fg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>18</x>
-      <y>666</y>
+      <x>0</x>
+      <y>660</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -1376,8 +1376,8 @@ planning</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>48</x>
-      <y>564</y>
+      <x>30</x>
+      <y>558</y>
       <w>102</w>
       <h>114</h>
     </coordinates>
@@ -1389,8 +1389,8 @@ fg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>60</x>
-      <y>690</y>
+      <x>42</x>
+      <y>684</y>
       <w>90</w>
       <h>144</h>
     </coordinates>
@@ -1402,8 +1402,8 @@ fg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>84</x>
-      <y>1242</y>
+      <x>66</x>
+      <y>1236</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -1415,8 +1415,8 @@ ECF</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>84</x>
-      <y>1296</y>
+      <x>66</x>
+      <y>1290</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -1428,8 +1428,8 @@ sur stagiaire</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>84</x>
-      <y>1350</y>
+      <x>66</x>
+      <y>1344</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -1441,8 +1441,8 @@ stagiaire</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>84</x>
-      <y>1398</y>
+      <x>66</x>
+      <y>1392</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -1454,8 +1454,8 @@ Programmer
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>258</x>
-      <y>1284</y>
+      <x>240</x>
+      <y>1278</y>
       <w>30</w>
       <h>66</h>
     </coordinates>
@@ -1466,8 +1466,8 @@ fg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>162</x>
-      <y>1224</y>
+      <x>144</x>
+      <y>1218</y>
       <w>120</w>
       <h>48</h>
     </coordinates>
@@ -1477,8 +1477,8 @@ fg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>150</x>
-      <y>1242</y>
+      <x>132</x>
+      <y>1236</y>
       <w>126</w>
       <h>72</h>
     </coordinates>
@@ -1488,8 +1488,8 @@ fg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>156</x>
-      <y>1278</y>
+      <x>138</x>
+      <y>1272</y>
       <w>102</w>
       <h>96</h>
     </coordinates>
@@ -1499,8 +1499,8 @@ fg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>156</x>
-      <y>1290</y>
+      <x>138</x>
+      <y>1284</y>
       <w>114</w>
       <h>132</h>
     </coordinates>
@@ -1510,8 +1510,8 @@ fg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>54</x>
-      <y>1482</y>
+      <x>36</x>
+      <y>1476</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -1524,8 +1524,8 @@ fg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>132</x>
-      <y>1434</y>
+      <x>114</x>
+      <y>1428</y>
       <w>132</w>
       <h>78</h>
     </coordinates>
@@ -1535,8 +1535,8 @@ fg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>54</x>
-      <y>1536</y>
+      <x>36</x>
+      <y>1530</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -1549,8 +1549,8 @@ fg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>126</x>
-      <y>1452</y>
+      <x>108</x>
+      <y>1446</y>
       <w>138</w>
       <h>108</h>
     </coordinates>
@@ -1560,8 +1560,8 @@ fg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.Actor</type>
     <coordinates>
-      <x>216</x>
-      <y>366</y>
+      <x>198</x>
+      <y>360</y>
       <w>96</w>
       <h>90</h>
     </coordinates>
@@ -1573,8 +1573,8 @@ fg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>258</x>
-      <y>426</y>
+      <x>240</x>
+      <y>420</y>
       <w>72</w>
       <h>72</h>
     </coordinates>
@@ -1585,8 +1585,8 @@ fg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>108</x>
-      <y>336</y>
+      <x>90</x>
+      <y>330</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -1597,8 +1597,8 @@ consulter correction</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>114</x>
-      <y>282</y>
+      <x>96</x>
+      <y>276</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -1609,8 +1609,8 @@ consulter absences</panel_attributes>
   <element>
     <type>com.umlet.element.UseCase</type>
     <coordinates>
-      <x>102</x>
-      <y>432</y>
+      <x>84</x>
+      <y>426</y>
       <w>96</w>
       <h>42</h>
     </coordinates>
@@ -1621,8 +1621,8 @@ Saisir notes</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>180</x>
-      <y>384</y>
+      <x>162</x>
+      <y>378</y>
       <w>84</w>
       <h>36</h>
     </coordinates>
@@ -1632,8 +1632,8 @@ Saisir notes</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>186</x>
-      <y>342</y>
+      <x>168</x>
+      <y>336</y>
       <w>72</w>
       <h>54</h>
     </coordinates>
@@ -1643,8 +1643,8 @@ Saisir notes</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>186</x>
-      <y>294</y>
+      <x>168</x>
+      <y>288</y>
       <w>78</w>
       <h>84</h>
     </coordinates>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="12.1">
+  <zoom_level>10</zoom_level>
+  <element>
+    <type>com.umlet.element.SequenceDiagram</type>
+    <coordinates>
+      <x>380</x>
+      <y>0</y>
+      <w>710</w>
+      <h>560</h>
+    </coordinates>
+    <panel_attributes>title: Créer ECF
+_Formateur~id1_|_Formulaire~id3_|_Application~id2_|_ECF~e_|_Version~v_|
+id1-&gt;&gt;id2:Sélectionne la section ECF
+id2-&gt;id1:Affiche la section ECF
+id1-&gt;&gt;id2:Clique sur "Créer ECF"
+id2-&gt;id3:id3:Crée 1 formulaire de création d'un ECF
+id2-&gt;id1:id3:Affiche le formulaire créé
+id1-&gt;&gt;id3:id3:Saisit le nom de l'ECF
+id1-&gt;&gt;id3:id3:Saisit la durée de l'ECF
+id1-&gt;&gt;id3:id3:Saisit l'énoncé de l'ECF
+id1-&gt;&gt;id2:id3:Envoie le formulaire à l'application
+id2-&gt;v:v:Crée une version d'ECF
+id2-&gt;v:v:Enregistre la version
+id2-&gt;e:e,v:Crée l'ECF
+id2-&gt;e:e,v:Associe la version à l'ECF
+id2-&gt;e:e,v:Enregistre la version
+id2-&gt;id1:Notifie la réussite de la création
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

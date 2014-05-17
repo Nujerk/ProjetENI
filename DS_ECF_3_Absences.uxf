@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="12.1">
+  <zoom_level>10</zoom_level>
+  <element>
+    <type>com.umlet.element.SequenceDiagram</type>
+    <coordinates>
+      <x>20</x>
+      <y>20</y>
+      <w>370</w>
+      <h>320</h>
+    </coordinates>
+    <panel_attributes>title: Enregistrer absences aux ECFs
+_Formateur~id1_|_Application~id2_
+id1-&gt;&gt;id2:Sélectionne un ECF
+id2-&gt;id2:Enregistre la sélection
+id1-&gt;&gt;id2:Sélectionne un stagiaire
+id2-&gt;id2:Enregistre la sélection
+id1-&gt;&gt;id2:Clique sur "Absent"
+id2-&gt;id2:Enregistre l'absence
+id2-&gt;id1:Notifie la réussite de l'enregistrement</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
