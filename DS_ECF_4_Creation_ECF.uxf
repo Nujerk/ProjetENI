@@ -1,33 +1,333 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<diagram program="umlet" version="12.1">
+<diagram program="umlet" version="12.2">
   <zoom_level>10</zoom_level>
   <element>
-    <type>com.umlet.element.SequenceDiagram</type>
+    <type>com.umlet.element.custom.InteractionFrame</type>
     <coordinates>
-      <x>380</x>
-      <y>0</y>
-      <w>710</w>
-      <h>560</h>
+      <x>310</x>
+      <y>140</y>
+      <w>910</w>
+      <h>660</h>
     </coordinates>
-    <panel_attributes>title: Créer ECF
-_Formateur~id1_|_Formulaire~id3_|_Application~id2_|_ECF~e_|_Version~v_|
-id1-&gt;&gt;id2:Sélectionne la section ECF
-id2-&gt;id1:Affiche la section ECF
-id1-&gt;&gt;id2:Clique sur "Créer ECF"
-id2-&gt;id3:id3:Crée 1 formulaire de création d'un ECF
-id2-&gt;id1:id3:Affiche le formulaire créé
-id1-&gt;&gt;id3:id3:Saisit le nom de l'ECF
-id1-&gt;&gt;id3:id3:Saisit la durée de l'ECF
-id1-&gt;&gt;id3:id3:Saisit l'énoncé de l'ECF
-id1-&gt;&gt;id2:id3:Envoie le formulaire à l'application
-id2-&gt;v:v:Crée une version d'ECF
-id2-&gt;v:v:Enregistre la version
-id2-&gt;e:e,v:Crée l'ECF
-id2-&gt;e:e,v:Associe la version à l'ECF
-id2-&gt;e:e,v:Enregistre la version
-id2-&gt;id1:Notifie la réussite de la création
+    <panel_attributes>Créer un ECF</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>350</x>
+      <y>210</y>
+      <w>100</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>Formateur
+bg=orange</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>370</x>
+      <y>210</y>
+      <w>50</w>
+      <h>590</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>30;30;30;570</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>370</x>
+      <y>280</y>
+      <w>380</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Clique le bouton "créer un ECF"
+</panel_attributes>
+    <additional_attributes>360;50;30;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>370</x>
+      <y>220</y>
+      <w>380</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Clique sur le module ECF
+</panel_attributes>
+    <additional_attributes>360;50;30;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>370</x>
+      <y>250</y>
+      <w>380</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Affiche le module ECF
+</panel_attributes>
+    <additional_attributes>30;50;360;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>370</x>
+      <y>310</y>
+      <w>380</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Affiche le formulaire de création d'ECF
+</panel_attributes>
+    <additional_attributes>30;50;360;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>370</x>
+      <y>340</y>
+      <w>380</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Renseigne le nom de l'ECF
+</panel_attributes>
+    <additional_attributes>360;50;30;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>640</x>
+      <y>210</y>
+      <w>170</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>Application Pédagogique
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>700</x>
+      <y>210</y>
+      <w>50</w>
+      <h>590</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>30;30;30;570</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>370</x>
+      <y>370</y>
+      <w>380</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Renseigne la durée de l'ECF
+</panel_attributes>
+    <additional_attributes>360;50;30;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>370</x>
+      <y>400</y>
+      <w>380</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Joint l'énoncé de l'ECF en fichier
 
 </panel_attributes>
+    <additional_attributes>360;50;30;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>370</x>
+      <y>430</y>
+      <w>380</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Clique sur le bouton valider
+
+</panel_attributes>
+    <additional_attributes>360;50;30;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>700</x>
+      <y>490</y>
+      <w>260</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Crée un ECF
+
+</panel_attributes>
+    <additional_attributes>240;50;30;50</additional_attributes>
+  </element>
+  <group>
+    <element>
+      <type>com.umlet.element.Class</type>
+      <coordinates>
+        <x>900</x>
+        <y>210</y>
+        <w>100</w>
+        <h>30</h>
+      </coordinates>
+      <panel_attributes>ECF
+bg=blue</panel_attributes>
+      <additional_attributes/>
+    </element>
+    <element>
+      <type>com.umlet.element.Relation</type>
+      <coordinates>
+        <x>920</x>
+        <y>210</y>
+        <w>50</w>
+        <h>590</h>
+      </coordinates>
+      <panel_attributes>lt=.</panel_attributes>
+      <additional_attributes>30;30;30;570</additional_attributes>
+    </element>
+  </group>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>700</x>
+      <y>520</y>
+      <w>450</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Crée une version d'ECF
+
+</panel_attributes>
+    <additional_attributes>430;50;30;50</additional_attributes>
+  </element>
+  <group>
+    <element>
+      <type>com.umlet.element.Class</type>
+      <coordinates>
+        <x>1090</x>
+        <y>210</y>
+        <w>100</w>
+        <h>30</h>
+      </coordinates>
+      <panel_attributes>Version
+bg=blue</panel_attributes>
+      <additional_attributes/>
+    </element>
+    <element>
+      <type>com.umlet.element.Relation</type>
+      <coordinates>
+        <x>1110</x>
+        <y>210</y>
+        <w>50</w>
+        <h>590</h>
+      </coordinates>
+      <panel_attributes>lt=.</panel_attributes>
+      <additional_attributes>30;30;30;570</additional_attributes>
+    </element>
+  </group>
+  <element>
+    <type>com.umlet.element.custom.SeqObjectActive</type>
+    <coordinates>
+      <x>940</x>
+      <y>540</y>
+      <w>20</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes/>
     <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.custom.SeqObjectActive</type>
+    <coordinates>
+      <x>1130</x>
+      <y>570</y>
+      <w>20</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>700</x>
+      <y>550</y>
+      <w>260</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Associe la version à l'ECF
+</panel_attributes>
+    <additional_attributes>240;50;30;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>700</x>
+      <y>580</y>
+      <w>450</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Enregistre la version d'ECF
+
+</panel_attributes>
+    <additional_attributes>430;50;30;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>700</x>
+      <y>610</y>
+      <w>260</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Enregistre l'ECF
+</panel_attributes>
+    <additional_attributes>240;50;30;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>690</x>
+      <y>450</y>
+      <w>156</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-
+         Vérifie les 
+        données</panel_attributes>
+    <additional_attributes>40;60;80;60;80;30;40;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>370</x>
+      <y>630</y>
+      <w>380</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Notifie la réussite de la création
+</panel_attributes>
+    <additional_attributes>30;50;360;50</additional_attributes>
   </element>
 </diagram>
