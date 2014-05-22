@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="12.2">
+  <zoom_level>11</zoom_level>
+  <element>
+    <type>com.umlet.element.custom.InteractionFrame</type>
+    <coordinates>
+      <x>396</x>
+      <y>33</y>
+      <w>1001</w>
+      <h>858</h>
+    </coordinates>
+    <panel_attributes>Créer un ECF</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>418</x>
+      <y>121</y>
+      <w>110</w>
+      <h>33</h>
+    </coordinates>
+    <panel_attributes>Formateur
+bg=orange</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>440</x>
+      <y>121</y>
+      <w>54</w>
+      <h>736</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>33;33;33;715</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>451</x>
+      <y>220</y>
+      <w>395</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Clique le bouton "créer un ECF"
+</panel_attributes>
+    <additional_attributes>374;55;33;55</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>451</x>
+      <y>132</y>
+      <w>395</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Clique sur le module ECF
+</panel_attributes>
+    <additional_attributes>374;55;33;55</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>451</x>
+      <y>176</y>
+      <w>395</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Affiche le module ECF
+</panel_attributes>
+    <additional_attributes>33;55;374;55</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>451</x>
+      <y>264</y>
+      <w>395</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Affiche le formulaire de création d'ECF
+</panel_attributes>
+    <additional_attributes>33;55;374;55</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>451</x>
+      <y>297</y>
+      <w>395</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+Renseigne le nom de l'ECF
+</panel_attributes>
+    <additional_attributes>374;55;33;55</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>737</x>
+      <y>121</y>
+      <w>187</w>
+      <h>33</h>
+    </coordinates>
+    <panel_attributes>Application Pédagogique
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>803</x>
+      <y>121</y>
+      <w>54</w>
+      <h>736</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>33;33;33;715</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>451</x>
+      <y>363</y>
+      <w>395</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+Renseigne la durée de l'ECF
+</panel_attributes>
+    <additional_attributes>374;55;33;55</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>451</x>
+      <y>429</y>
+      <w>395</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+Joint l'énoncé de l'ECF en fichier
+
+</panel_attributes>
+    <additional_attributes>374;55;33;55</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>451</x>
+      <y>517</y>
+      <w>395</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Clique sur le bouton valider
+
+</panel_attributes>
+    <additional_attributes>374;55;33;55</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>814</x>
+      <y>583</y>
+      <w>274</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Crée un ECF
+
+</panel_attributes>
+    <additional_attributes>253;55;33;55</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>1023</x>
+      <y>121</y>
+      <w>110</w>
+      <h>33</h>
+    </coordinates>
+    <panel_attributes>ECF
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>1045</x>
+      <y>121</y>
+      <w>54</w>
+      <h>736</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>33;33;33;715</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>814</x>
+      <y>616</y>
+      <w>483</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Crée une version d'ECF
+
+</panel_attributes>
+    <additional_attributes>462;55;33;55</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>1232</x>
+      <y>121</y>
+      <w>110</w>
+      <h>33</h>
+    </coordinates>
+    <panel_attributes>Version
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>1254</x>
+      <y>121</y>
+      <w>54</w>
+      <h>736</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>33;33;33;715</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.custom.SeqObjectActive</type>
+    <coordinates>
+      <x>1067</x>
+      <y>638</y>
+      <w>22</w>
+      <h>132</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.custom.SeqObjectActive</type>
+    <coordinates>
+      <x>1276</x>
+      <y>671</y>
+      <w>22</w>
+      <h>66</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>814</x>
+      <y>649</y>
+      <w>274</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Associe la version à l'ECF
+</panel_attributes>
+    <additional_attributes>253;55;33;55</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>814</x>
+      <y>682</y>
+      <w>483</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Enregistre la version d'ECF
+
+</panel_attributes>
+    <additional_attributes>462;55;33;55</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>814</x>
+      <y>715</y>
+      <w>274</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Enregistre l'ECF
+</panel_attributes>
+    <additional_attributes>253;55;33;55</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>814</x>
+      <y>539</y>
+      <w>98</w>
+      <h>98</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-
+</panel_attributes>
+    <additional_attributes>33;77;77;77;77;33;33;33</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>440</x>
+      <y>737</y>
+      <w>406</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+{ enregistrement réussi } Notifie réussite
+</panel_attributes>
+    <additional_attributes>33;55;385;55</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.custom.SeqObjectActive</type>
+    <coordinates>
+      <x>462</x>
+      <y>176</y>
+      <w>22</w>
+      <h>22</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.custom.SeqObjectActive</type>
+    <coordinates>
+      <x>825</x>
+      <y>187</y>
+      <w>22</w>
+      <h>44</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>814</x>
+      <y>154</y>
+      <w>98</w>
+      <h>98</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-
+</panel_attributes>
+    <additional_attributes>33;77;77;77;77;33;33;33</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.custom.SeqObjectActive</type>
+    <coordinates>
+      <x>462</x>
+      <y>231</y>
+      <w>22</w>
+      <h>44</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.custom.SeqObjectActive</type>
+    <coordinates>
+      <x>825</x>
+      <y>275</y>
+      <w>22</w>
+      <h>44</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>814</x>
+      <y>242</y>
+      <w>98</w>
+      <h>98</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-
+</panel_attributes>
+    <additional_attributes>33;77;77;77;77;33;33;33</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.custom.SeqObjectActive</type>
+    <coordinates>
+      <x>462</x>
+      <y>319</y>
+      <w>22</w>
+      <h>253</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.custom.SeqObjectActive</type>
+    <coordinates>
+      <x>825</x>
+      <y>352</y>
+      <w>22</w>
+      <h>44</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.custom.SeqObjectActive</type>
+    <coordinates>
+      <x>825</x>
+      <y>418</y>
+      <w>22</w>
+      <h>44</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.custom.SeqObjectActive</type>
+    <coordinates>
+      <x>825</x>
+      <y>484</y>
+      <w>22</w>
+      <h>44</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>814</x>
+      <y>319</y>
+      <w>98</w>
+      <h>98</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-
+</panel_attributes>
+    <additional_attributes>33;77;77;77;77;33;33;33</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>814</x>
+      <y>385</y>
+      <w>98</w>
+      <h>98</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-
+</panel_attributes>
+    <additional_attributes>33;77;77;77;77;33;33;33</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>814</x>
+      <y>451</y>
+      <w>98</w>
+      <h>98</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-
+</panel_attributes>
+    <additional_attributes>33;77;77;77;77;33;33;33</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.custom.SeqObjectActive</type>
+    <coordinates>
+      <x>825</x>
+      <y>572</y>
+      <w>22</w>
+      <h>220</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>440</x>
+      <y>759</y>
+      <w>406</w>
+      <h>87</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+
+</panel_attributes>
+    <additional_attributes>33;66;330;66;385;33</additional_attributes>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>506</x>
+      <y>825</y>
+      <w>264</w>
+      <h>33</h>
+    </coordinates>
+    <panel_attributes>{ enregistrement raté } Notifie échec
+elementstyle=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>902</x>
+      <y>561</y>
+      <w>88</w>
+      <h>55</h>
+    </coordinates>
+    <panel_attributes>Vérifie les données
+elementstyle=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>902</x>
+      <y>484</y>
+      <w>154</w>
+      <h>66</h>
+    </coordinates>
+    <panel_attributes>Enregistre temporairement les données saisies
+elementstyle=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>902</x>
+      <y>407</y>
+      <w>154</w>
+      <h>66</h>
+    </coordinates>
+    <panel_attributes>Enregistre temporairement les données saisies
+elementstyle=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>902</x>
+      <y>341</y>
+      <w>154</w>
+      <h>66</h>
+    </coordinates>
+    <panel_attributes>Enregistre temporairement les données saisies
+elementstyle=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>902</x>
+      <y>176</y>
+      <w>154</w>
+      <h>66</h>
+    </coordinates>
+    <panel_attributes>Prépare les données à afficher
+elementstyle=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>902</x>
+      <y>264</y>
+      <w>154</w>
+      <h>66</h>
+    </coordinates>
+    <panel_attributes>Prépare les données à afficher
+elementstyle=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
