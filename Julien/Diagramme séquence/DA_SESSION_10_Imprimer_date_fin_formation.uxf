@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="12.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <type>com.umlet.element.custom.InteractionFrame</type>
+    <coordinates>
+      <x>180</x>
+      <y>120</y>
+      <w>870</w>
+      <h>220</h>
+    </coordinates>
+    <panel_attributes>Imprimer fiche 
+date de fin de
+formation</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>360</x>
+      <y>200</y>
+      <w>50</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>lt=.
+bg=default</panel_attributes>
+    <additional_attributes>30;30;30;120</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>740</x>
+      <y>190</y>
+      <w>50</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>30;30;30;130</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>680</x>
+      <y>190</y>
+      <w>170</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>bg=red
+Application Pédagogique</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>360</x>
+      <y>200</y>
+      <w>430</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Clique dans le menu Report-&gt;Liste date de fin de formation
+</panel_attributes>
+    <additional_attributes>410;50;30;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>330</x>
+      <y>190</y>
+      <w>130</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>bg=orange
+Responsable suivi
+administratif CP
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>360</x>
+      <y>240</y>
+      <w>430</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Retourne la lise des dates de fin de formation</panel_attributes>
+    <additional_attributes>30;50;410;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>330</x>
+      <y>130</y>
+      <w>130</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>bg=orange
+Nadine
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>360</x>
+      <y>130</y>
+      <w>50</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=.
+bg=default</panel_attributes>
+    <additional_attributes>30;30;30;60</additional_attributes>
+  </element>
+</diagram>

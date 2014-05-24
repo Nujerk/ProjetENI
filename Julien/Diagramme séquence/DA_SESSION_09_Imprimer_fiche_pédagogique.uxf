@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="12.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <type>com.umlet.element.custom.InteractionFrame</type>
+    <coordinates>
+      <x>220</x>
+      <y>250</y>
+      <w>870</w>
+      <h>450</h>
+    </coordinates>
+    <panel_attributes>Imprimer fiche 
+péfagogique</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>400</x>
+      <y>280</y>
+      <w>50</w>
+      <h>200</h>
+    </coordinates>
+    <panel_attributes>lt=.
+bg=default</panel_attributes>
+    <additional_attributes>30;30;30;180</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>780</x>
+      <y>280</y>
+      <w>50</w>
+      <h>200</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>30;30;30;180</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>720</x>
+      <y>280</y>
+      <w>170</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>bg=red
+Application Pédagogique</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>400</x>
+      <y>300</y>
+      <w>430</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Choisi un STAGIAIRE
+</panel_attributes>
+    <additional_attributes>410;50;30;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>370</x>
+      <y>270</y>
+      <w>130</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>bg=orange
+Suivi 
+pédagogique CP
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>400</x>
+      <y>320</y>
+      <w>430</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Affiche la fenêtre STAGIAIRE</panel_attributes>
+    <additional_attributes>30;50;410;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>400</x>
+      <y>350</y>
+      <w>430</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Clique sur le bouton "Editer fiches péda."
+</panel_attributes>
+    <additional_attributes>410;50;30;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>770</x>
+      <y>370</y>
+      <w>176</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-
+            Imprime
+            les fiches
+            du stagiaire</panel_attributes>
+    <additional_attributes>40;70;90;70;90;30;40;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>400</x>
+      <y>390</y>
+      <w>430</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Notifie de la réussite de l'impression
+</panel_attributes>
+    <additional_attributes>30;50;410;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>370</x>
+      <y>480</y>
+      <w>130</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>bg=orange
+Suivi 
+pédagogique CP
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>400</x>
+      <y>490</y>
+      <w>50</w>
+      <h>200</h>
+    </coordinates>
+    <panel_attributes>lt=.
+bg=default</panel_attributes>
+    <additional_attributes>30;30;30;180</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>720</x>
+      <y>480</y>
+      <w>170</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>bg=red
+Application Pédagogique</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>780</x>
+      <y>480</y>
+      <w>50</w>
+      <h>200</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>30;30;30;180</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>400</x>
+      <y>500</y>
+      <w>430</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Choisi une SESSION
+</panel_attributes>
+    <additional_attributes>410;50;30;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>400</x>
+      <y>550</y>
+      <w>430</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Clique sur le bouton "Editer fiches péda."
+</panel_attributes>
+    <additional_attributes>410;50;30;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>400</x>
+      <y>590</y>
+      <w>430</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Notifie de la réussite de l'impression
+</panel_attributes>
+    <additional_attributes>30;50;410;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>770</x>
+      <y>570</y>
+      <w>170</w>
+      <h>122</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-
+            Imprime
+            les fiches
+            de toute la
+            session</panel_attributes>
+    <additional_attributes>40;70;90;70;90;30;40;30</additional_attributes>
+  </element>
+</diagram>
