@@ -1,6 +1,6 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="966" measuredH="699" mockupW="758" mockupH="656">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1095" measuredH="651" mockupW="887" mockupH="608">
   <controls>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::TitleWindow" x="208" y="43" w="758" h="656" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TitleWindow" x="208" y="43" w="887" h="608" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <bottomheight>0</bottomheight>
         <close>true</close>
@@ -9,89 +9,134 @@
         <text>Application%20p%E9dagogique%20-%20Fiche%20stagiaire</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::TabBar" x="229" y="132" w="651" h="538" measuredW="381" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TabBar" x="410" y="95" w="651" h="538" measuredW="380" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <selectedIndex>0</selectedIndex>
         <text>Absences%20%26%20retards%2C%20Avis%20%26%20Echanges%2C%20Entreprise</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::DataGrid" x="252" y="188" w="519" h="76" measuredW="145" measuredH="83" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::DataGrid" x="433" y="151" w="519" h="187" measuredW="144" measuredH="83" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Date%20%5E%2C%20Motif%0A02/02/2014%2C%20Malade%0A%20%0A%7B0L%2C%2065R%7D</text>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="252" y="167" w="-1" h="-1" measuredW="64" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="433" y="130" w="-1" h="-1" measuredW="64" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Absences</text>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="252" y="385" w="-1" h="-1" measuredW="52" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="433" y="348" w="-1" h="-1" measuredW="52" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Retards</text>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="331" y="279" w="-1" h="-1" measuredW="79" measuredH="27" zOrder="5" locked="false" isInGroup="-1"/>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="252" y="282" w="-1" h="-1" measuredW="34" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="579" y="408" w="-1" h="-1" measuredW="79" measuredH="27" zOrder="20" locked="false" isInGroup="-1"/>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="500" y="411" w="-1" h="-1" measuredW="34" measuredH="21" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Date</text>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::TextArea" x="331" y="306" w="311" h="64" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="-1"/>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="252" y="306" w="-1" h="-1" measuredW="34" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::TextArea" x="579" y="435" w="311" h="64" measuredW="200" measuredH="140" zOrder="22" locked="false" isInGroup="-1"/>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="500" y="435" w="-1" h="-1" measuredW="34" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Motif</text>
       </controlProperties>
     </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="657" y="343" w="-1" h="-1" measuredW="66" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="802" y="507" w="-1" h="-1" measuredW="88" measuredH="27" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Ajouter</text>
+        <text>Enregistrer</text>
       </controlProperties>
     </control>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="777" y="213" w="-1" h="-1" measuredW="82" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="958" y="205" w="-1" h="-1" measuredW="82" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Supprimer</text>
       </controlProperties>
     </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::DataGrid" x="252" y="406" w="519" h="76" measuredW="141" measuredH="83" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::DataGrid" x="433" y="369" w="519" h="195" measuredW="141" measuredH="83" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Date%20%5E%2C%20Motif%0A03/02/2014%2C%20Reveil%0A%20%0A%7B0L%2C%2065R%7D</text>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::TextInput" x="331" y="497" w="-1" h="-1" measuredW="79" measuredH="27" zOrder="12" locked="false" isInGroup="-1"/>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="252" y="500" w="-1" h="-1" measuredW="34" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::CheckBox" x="778" y="408" w="-1" h="-1" measuredW="112" measuredH="22" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Date</text>
+        <text>Pr%E9venir%20tuteur</text>
       </controlProperties>
     </control>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::TextArea" x="331" y="524" w="311" h="64" measuredW="200" measuredH="140" zOrder="14" locked="false" isInGroup="-1"/>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="252" y="524" w="-1" h="-1" measuredW="34" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Button" x="429" y="595" w="150" h="29" measuredW="137" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Motif</text>
+        <text>Exporter%20vers%20Excel</text>
       </controlProperties>
     </control>
-    <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="657" y="561" w="-1" h="-1" measuredW="66" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Webcam" x="236" y="95" w="151" h="120" measuredW="177" measuredH="146" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::TextInput" x="303" y="229" w="90" h="-1" measuredW="79" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::ComboBox" x="303" y="323" w="93" h="-1" measuredW="94" measuredH="23" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ComboBox</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::TextInput" x="303" y="257" w="90" h="-1" measuredW="79" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::DateChooser" x="303" y="288" w="90" h="-1" measuredW="90" measuredH="25" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20/%20%20/%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="226" y="232" w="33" h="-1" measuredW="40" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nom%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="226" y="325" w="35" h="-1" measuredW="42" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Titre%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="226" y="260" w="53" h="-1" measuredW="58" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pr%E9nom%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Label" x="226" y="290" w="35" h="-1" measuredW="42" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Date%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Button" x="958" y="151" w="82" h="27" measuredW="66" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Ajouter</text>
       </controlProperties>
     </control>
-    <control controlID="20" controlTypeID="com.balsamiq.mockups::Button" x="777" y="431" w="-1" h="-1" measuredW="82" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Button" x="958" y="178" w="82" h="27" measuredW="69" measuredH="27" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Modifier</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Canvas" x="485" y="383" w="427" h="166" measuredW="100" measuredH="70" zOrder="19" locked="false" isInGroup="-1"/>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Button" x="714" y="507" w="-1" h="-1" measuredW="67" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Annuler</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Button" x="958" y="423" w="-1" h="-1" measuredW="82" measuredH="27" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Supprimer</text>
       </controlProperties>
     </control>
-    <control controlID="21" controlTypeID="com.balsamiq.mockups::CheckBox" x="657" y="313" w="-1" h="-1" measuredW="112" measuredH="22" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Button" x="958" y="369" w="82" h="27" measuredW="66" measuredH="27" zOrder="28" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Pr%E9venir%20tuteur</text>
+        <text>Ajouter</text>
       </controlProperties>
     </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::CheckBox" x="657" y="531" w="-1" h="-1" measuredW="112" measuredH="22" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Button" x="958" y="396" w="82" h="27" measuredW="69" measuredH="27" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Pr%E9venir%20tuteur</text>
-      </controlProperties>
-    </control>
-    <control controlID="23" controlTypeID="com.balsamiq.mockups::Button" x="248" y="632" w="150" h="29" measuredW="137" measuredH="27" zOrder="20" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Exporter%20vers%20Excel</text>
+        <text>Modifier</text>
       </controlProperties>
     </control>
   </controls>
