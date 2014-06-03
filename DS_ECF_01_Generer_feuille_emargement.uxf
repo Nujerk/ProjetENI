@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<diagram program="umlet" version="12.2">
+<diagram program="umlet" version="12.1">
   <zoom_level>20</zoom_level>
   <element>
     <type>com.umlet.element.custom.InteractionFrame</type>
@@ -68,7 +68,7 @@ Utilisateur
       <h>140</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Clique sur le module ECF
+Clique sur "ECF" dans le menu principal
 </panel_attributes>
     <additional_attributes>640;100;60;100</additional_attributes>
   </element>

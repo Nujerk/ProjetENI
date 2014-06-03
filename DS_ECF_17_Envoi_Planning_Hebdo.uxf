@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<diagram program="umlet" version="12.2">
+<diagram program="umlet" version="12.1">
   <zoom_level>11</zoom_level>
   <element>
     <type>com.umlet.element.custom.InteractionFrame</type>
@@ -56,7 +56,7 @@ Clique sur l'onglet "Planning hebdomadaire"</panel_attributes>
       <h>77</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Clique sur le module "Génération Planning"
+Clique sur "Génération Planning" dans "Outils"
 </panel_attributes>
     <additional_attributes>374;55;33;55</additional_attributes>
   </element>
@@ -69,7 +69,7 @@ Clique sur le module "Génération Planning"
       <h>77</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Affiche le module "Génération Planning"
+Affiche l'écran "Génération Planning"
 </panel_attributes>
     <additional_attributes>33;55;374;55</additional_attributes>
   </element>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<diagram program="umlet" version="12.2">
+<diagram program="umlet" version="12.1">
   <zoom_level>13</zoom_level>
   <element>
     <type>com.umlet.element.custom.InteractionFrame</type>
@@ -70,7 +70,7 @@ Clique sur "Emargement"
       <h>91</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Clique sur le module ECF
+Clique sur "ECF" dans le menu principal
 </panel_attributes>
     <additional_attributes>442;65;39;65</additional_attributes>
   </element>
@@ -83,7 +83,7 @@ Clique sur le module ECF
       <h>91</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Affiche le module ECF
+Affiche l'écran "Consulter ECFs"
 </panel_attributes>
     <additional_attributes>39;65;442;65</additional_attributes>
   </element>
@@ -261,7 +261,7 @@ elementstyle=wordwrap</panel_attributes>
       <h>91</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Affiche les données de l'ECF
+Affiche l'onglet de l'ECF
 </panel_attributes>
     <additional_attributes>39;65;442;65</additional_attributes>
   </element>
@@ -529,8 +529,7 @@ elementstyle=wordwrap</panel_attributes>
       <h>91</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Affiche les données de l'épreuve
-</panel_attributes>
+Affiche l'écran "Consulter Epreuve"</panel_attributes>
     <additional_attributes>39;65;442;65</additional_attributes>
   </element>
 </diagram>
