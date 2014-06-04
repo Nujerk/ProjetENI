@@ -56,7 +56,7 @@ Clique sur un stagiaire</panel_attributes>
       <h>77</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Clique sur le module Stagiaires
+Clique sur "Stagiaires" dans le menu principal
 </panel_attributes>
     <additional_attributes>374;55;33;55</additional_attributes>
   </element>
@@ -69,7 +69,7 @@ Clique sur le module Stagiaires
       <h>77</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Affiche le module Stagiaires
+Affiche l'écran "Gestion Stagiaires"
 </panel_attributes>
     <additional_attributes>33;55;374;55</additional_attributes>
   </element>
@@ -82,7 +82,7 @@ Affiche le module Stagiaires
       <h>77</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Affiche les données du stagiaire</panel_attributes>
+Affiche l'écran "Stagiaire"</panel_attributes>
     <additional_attributes>33;55;374;55</additional_attributes>
   </element>
   <element>
@@ -116,7 +116,7 @@ bg=red</panel_attributes>
       <w>22</w>
       <h>22</h>
     </coordinates>
-    <panel_attributes/>
+    <panel_attributes>bg=yellow</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -127,7 +127,7 @@ bg=red</panel_attributes>
       <w>22</w>
       <h>44</h>
     </coordinates>
-    <panel_attributes/>
+    <panel_attributes>bg=red</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -150,7 +150,7 @@ bg=red</panel_attributes>
       <w>22</w>
       <h>44</h>
     </coordinates>
-    <panel_attributes/>
+    <panel_attributes>bg=yellow</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -161,7 +161,7 @@ bg=red</panel_attributes>
       <w>22</w>
       <h>44</h>
     </coordinates>
-    <panel_attributes/>
+    <panel_attributes>bg=red</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -184,7 +184,7 @@ bg=red</panel_attributes>
       <w>22</w>
       <h>44</h>
     </coordinates>
-    <panel_attributes/>
+    <panel_attributes>bg=red</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -244,7 +244,7 @@ elementstyle=wordwrap</panel_attributes>
       <w>22</w>
       <h>44</h>
     </coordinates>
-    <panel_attributes/>
+    <panel_attributes>bg=yellow</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -316,7 +316,7 @@ Clique sur un "Voir" dans la colonne "Avis"</panel_attributes>
       <w>22</w>
       <h>44</h>
     </coordinates>
-    <panel_attributes/>
+    <panel_attributes>bg=yellow</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -327,7 +327,7 @@ Clique sur un "Voir" dans la colonne "Avis"</panel_attributes>
       <w>22</w>
       <h>44</h>
     </coordinates>
-    <panel_attributes/>
+    <panel_attributes>bg=yellow</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -338,7 +338,7 @@ Clique sur un "Voir" dans la colonne "Avis"</panel_attributes>
       <w>22</w>
       <h>44</h>
     </coordinates>
-    <panel_attributes/>
+    <panel_attributes>bg=red</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -349,7 +349,7 @@ Clique sur un "Voir" dans la colonne "Avis"</panel_attributes>
       <w>22</w>
       <h>44</h>
     </coordinates>
-    <panel_attributes/>
+    <panel_attributes>bg=red</panel_attributes>
     <additional_attributes/>
   </element>
   <element>

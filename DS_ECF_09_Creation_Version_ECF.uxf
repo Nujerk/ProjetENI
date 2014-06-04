@@ -56,7 +56,7 @@ Clique sur un ECF</panel_attributes>
       <h>77</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Clique sur le module ECF
+Clique sur "ECF" un menu principal
 </panel_attributes>
     <additional_attributes>374;55;33;55</additional_attributes>
   </element>
@@ -69,7 +69,7 @@ Clique sur le module ECF
       <h>77</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Affiche le module ECF
+Affiche l'écran "Consulter ECF"
 </panel_attributes>
     <additional_attributes>33;55;374;55</additional_attributes>
   </element>
@@ -82,7 +82,7 @@ Affiche le module ECF
       <h>77</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Affiche les données de l'ECF
+Affiche l'onglet de l'ECF
 </panel_attributes>
     <additional_attributes>33;55;374;55</additional_attributes>
   </element>
@@ -305,7 +305,7 @@ Enregistre l'ECF
       <w>22</w>
       <h>22</h>
     </coordinates>
-    <panel_attributes/>
+    <panel_attributes>bg=yellow</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -316,7 +316,7 @@ Enregistre l'ECF
       <w>22</w>
       <h>44</h>
     </coordinates>
-    <panel_attributes/>
+    <panel_attributes>bg=red</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -339,7 +339,7 @@ Enregistre l'ECF
       <w>22</w>
       <h>44</h>
     </coordinates>
-    <panel_attributes/>
+    <panel_attributes>bg=yellow</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -350,7 +350,7 @@ Enregistre l'ECF
       <w>22</w>
       <h>44</h>
     </coordinates>
-    <panel_attributes/>
+    <panel_attributes>bg=red</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -373,7 +373,7 @@ Enregistre l'ECF
       <w>22</w>
       <h>330</h>
     </coordinates>
-    <panel_attributes/>
+    <panel_attributes>bg=yellow</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -384,7 +384,7 @@ Enregistre l'ECF
       <w>22</w>
       <h>44</h>
     </coordinates>
-    <panel_attributes/>
+    <panel_attributes>bg=red</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -395,7 +395,7 @@ Enregistre l'ECF
       <w>22</w>
       <h>44</h>
     </coordinates>
-    <panel_attributes/>
+    <panel_attributes>bg=red</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -406,7 +406,7 @@ Enregistre l'ECF
       <w>22</w>
       <h>44</h>
     </coordinates>
-    <panel_attributes/>
+    <panel_attributes>bg=red</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -453,7 +453,7 @@ Enregistre l'ECF
       <w>22</w>
       <h>220</h>
     </coordinates>
-    <panel_attributes/>
+    <panel_attributes>bg=red</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -576,7 +576,7 @@ Joint le corrigé en fichier
       <w>22</w>
       <h>33</h>
     </coordinates>
-    <panel_attributes/>
+    <panel_attributes>bg=red</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -661,7 +661,7 @@ elementstyle=wordwrap</panel_attributes>
       <w>22</w>
       <h>33</h>
     </coordinates>
-    <panel_attributes/>
+    <panel_attributes>bg=red</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -672,7 +672,7 @@ elementstyle=wordwrap</panel_attributes>
       <w>22</w>
       <h>44</h>
     </coordinates>
-    <panel_attributes/>
+    <panel_attributes>bg=yellow</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
