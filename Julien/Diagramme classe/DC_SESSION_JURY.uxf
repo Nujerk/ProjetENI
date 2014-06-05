@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="12.2">
+  <zoom_level>9</zoom_level>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>333</x>
+      <y>216</y>
+      <w>225</w>
+      <h>216</h>
+    </coordinates>
+    <panel_attributes>Jury
+--
+-civilite: EnumCivilite
+-nom: String
+-prenom: String
+-adresse: Adresse
+-homologations: List&lt;Homologation&gt;
+-telephone: String
+-dateNaissance: Date
+-lieuNaissance: String
+-eMail: String
+-societe: String
+-distanceAR: Int
+-note: String
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>630</x>
+      <y>81</y>
+      <w>189</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes>Homologation
+--
+-titre: String
+-dateHomologation: Date
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>45</x>
+      <y>90</y>
+      <w>189</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;enumeration&gt;&gt;
+EnumCivilite
+--
+-Monsieur
+-Madame
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>351</x>
+      <y>9</y>
+      <w>189</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes>Adresse
+--
+-adresse1: String
+-adresse2: String
+-cp: Int
+-ville: String
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>27</x>
+      <y>342</y>
+      <w>189</w>
+      <h>126</h>
+    </coordinates>
+    <panel_attributes>Session
+--
+-nom: String
+-titre: String
+-dateDebut: Date
+-dateFin: Date
+-stagiaire: List&lt;Stagiaire&gt;
+-valide: Boolean
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>351</x>
+      <y>585</y>
+      <w>189</w>
+      <h>126</h>
+    </coordinates>
+    <panel_attributes>PassageSession
+--
+-session: Session
+-dateSession: Date
+-salle: Salle
+-jurys: List&lt;Jury&gt;
+-stagiaires: List&lt;Stagiaire&gt;
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>18</x>
+      <y>603</y>
+      <w>189</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes>StagiaireSession
+--
+-stagiaire: Stagiaire
+-session: List&lt;Session&gt;
+-passage: Boolean
+-resultatSession: String
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>666</x>
+      <y>594</y>
+      <w>189</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes>Salle
+--
+-...
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>414</x>
+      <y>81</y>
+      <w>44</w>
+      <h>152</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=0..1
+m2=1..1
+</panel_attributes>
+    <additional_attributes>27;135;27;27</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>531</x>
+      <y>153</y>
+      <w>116</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=1..1
+m2=1..n
+</panel_attributes>
+    <additional_attributes>27;63;99;27</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>414</x>
+      <y>405</y>
+      <w>44</w>
+      <h>197</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=0..n
+m2=1..n
+</panel_attributes>
+    <additional_attributes>27;180;27;27</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>180</x>
+      <y>630</y>
+      <w>188</w>
+      <h>44</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=0..1
+m2=1..n
+</panel_attributes>
+    <additional_attributes>171;27;27;27</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>513</x>
+      <y>630</y>
+      <w>170</w>
+      <h>44</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=1..1
+m2=0..n
+</panel_attributes>
+    <additional_attributes>153;27;27;27</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>81</x>
+      <y>441</y>
+      <w>44</w>
+      <h>179</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=1..n
+m2=0..n
+</panel_attributes>
+    <additional_attributes>27;162;27;27</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>189</x>
+      <y>441</y>
+      <w>179</w>
+      <h>161</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=0..n
+m2=1..1
+</panel_attributes>
+    <additional_attributes>162;144;27;27</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>18</x>
+      <y>792</y>
+      <w>189</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes>Stagiaire
+--
+-...
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>81</x>
+      <y>675</y>
+      <w>44</w>
+      <h>134</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=1..1
+m2=1..1
+</panel_attributes>
+    <additional_attributes>27;27;27;117</additional_attributes>
+  </element>
+</diagram>
