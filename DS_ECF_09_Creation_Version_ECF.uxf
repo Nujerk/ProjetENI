@@ -4,19 +4,19 @@
   <element>
     <type>com.umlet.element.custom.InteractionFrame</type>
     <coordinates>
-      <x>88</x>
-      <y>33</y>
+      <x>319</x>
+      <y>44</y>
       <w>1001</w>
       <h>957</h>
     </coordinates>
-    <panel_attributes>Créer un ECF</panel_attributes>
+    <panel_attributes>Créer une version d'ECF  </panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <type>com.umlet.element.Class</type>
     <coordinates>
-      <x>110</x>
-      <y>121</y>
+      <x>341</x>
+      <y>88</y>
       <w>110</w>
       <h>33</h>
     </coordinates>
@@ -27,84 +27,70 @@ bg=orange</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>132</x>
-      <y>121</y>
+      <x>363</x>
+      <y>88</y>
       <w>54</w>
-      <h>857</h>
+      <h>901</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>33;33;33;836</additional_attributes>
+    <additional_attributes>33;33;33;880</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>143</x>
-      <y>220</y>
+      <x>374</x>
+      <y>187</y>
       <w>395</w>
       <h>77</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Clique  sur le bouton "nouvel ECF"
+Clique sur un ECF</panel_attributes>
+    <additional_attributes>374;55;33;55</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>374</x>
+      <y>99</y>
+      <w>395</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Clique sur "ECF" un menu principal
 </panel_attributes>
     <additional_attributes>374;55;33;55</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>143</x>
-      <y>132</y>
+      <x>374</x>
+      <y>143</y>
       <w>395</w>
       <h>77</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Clique sur "ECF" dans le menu principal
-</panel_attributes>
-    <additional_attributes>374;55;33;55</additional_attributes>
-  </element>
-  <element>
-    <type>com.umlet.element.Relation</type>
-    <coordinates>
-      <x>143</x>
-      <y>176</y>
-      <w>395</w>
-      <h>77</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;&lt;-
-Affiche l'écran "Consulter ECFs"
+Affiche l'écran "Consulter ECF"
 </panel_attributes>
     <additional_attributes>33;55;374;55</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>143</x>
-      <y>264</y>
+      <x>374</x>
+      <y>231</y>
       <w>395</w>
       <h>77</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Affiche le formulaire de création d'ECF
+Affiche l'onglet de l'ECF
 </panel_attributes>
     <additional_attributes>33;55;374;55</additional_attributes>
-  </element>
-  <element>
-    <type>com.umlet.element.Relation</type>
-    <coordinates>
-      <x>143</x>
-      <y>297</y>
-      <w>395</w>
-      <h>77</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-
-Renseigne le nom de l'ECF
-</panel_attributes>
-    <additional_attributes>374;55;33;55</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.Class</type>
     <coordinates>
-      <x>429</x>
-      <y>121</y>
+      <x>660</x>
+      <y>88</y>
       <w>187</w>
       <h>33</h>
     </coordinates>
@@ -115,19 +101,19 @@ bg=red</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>495</x>
-      <y>121</y>
+      <x>726</x>
+      <y>88</y>
       <w>54</w>
-      <h>857</h>
+      <h>901</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>33;33;33;836</additional_attributes>
+    <additional_attributes>33;33;33;880</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>143</x>
-      <y>363</y>
+      <x>374</x>
+      <y>374</y>
       <w>395</w>
       <h>77</h>
     </coordinates>
@@ -139,8 +125,8 @@ Renseigne la durée de l'ECF
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>143</x>
-      <y>429</y>
+      <x>374</x>
+      <y>440</y>
       <w>395</w>
       <h>77</h>
     </coordinates>
@@ -153,8 +139,8 @@ Joint l'énoncé en fichier
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>143</x>
-      <y>627</y>
+      <x>374</x>
+      <y>638</y>
       <w>395</w>
       <h>77</h>
     </coordinates>
@@ -165,24 +151,10 @@ Clique sur le bouton "Enregistrer"
     <additional_attributes>374;55;33;55</additional_attributes>
   </element>
   <element>
-    <type>com.umlet.element.Relation</type>
-    <coordinates>
-      <x>506</x>
-      <y>693</y>
-      <w>274</w>
-      <h>77</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;&lt;-
-Crée un ECF
-
-</panel_attributes>
-    <additional_attributes>253;55;33;55</additional_attributes>
-  </element>
-  <element>
     <type>com.umlet.element.Class</type>
     <coordinates>
-      <x>715</x>
-      <y>121</y>
+      <x>946</x>
+      <y>88</y>
       <w>110</w>
       <h>33</h>
     </coordinates>
@@ -193,19 +165,19 @@ bg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>737</x>
-      <y>121</y>
+      <x>968</x>
+      <y>88</y>
       <w>54</w>
-      <h>857</h>
+      <h>901</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>33;33;33;836</additional_attributes>
+    <additional_attributes>33;33;33;880</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>506</x>
-      <y>726</y>
+      <x>737</x>
+      <y>737</y>
       <w>483</w>
       <h>77</h>
     </coordinates>
@@ -218,8 +190,8 @@ Crée une version d'ECF
   <element>
     <type>com.umlet.element.Class</type>
     <coordinates>
-      <x>924</x>
-      <y>121</y>
+      <x>1155</x>
+      <y>88</y>
       <w>110</w>
       <h>33</h>
     </coordinates>
@@ -230,21 +202,21 @@ bg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>946</x>
-      <y>121</y>
+      <x>1177</x>
+      <y>88</y>
       <w>54</w>
-      <h>868</h>
+      <h>912</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>33;33;33;847</additional_attributes>
+    <additional_attributes>33;33;33;891</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>759</x>
-      <y>748</y>
+      <x>990</x>
+      <y>825</y>
       <w>22</w>
-      <h>132</h>
+      <h>66</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes/>
@@ -252,8 +224,8 @@ bg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>968</x>
-      <y>781</y>
+      <x>1199</x>
+      <y>792</y>
       <w>22</w>
       <h>66</h>
     </coordinates>
@@ -263,8 +235,8 @@ bg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>506</x>
-      <y>759</y>
+      <x>737</x>
+      <y>770</y>
       <w>274</w>
       <h>77</h>
     </coordinates>
@@ -276,8 +248,8 @@ Associe la version à l'ECF
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>506</x>
-      <y>792</y>
+      <x>737</x>
+      <y>803</y>
       <w>483</w>
       <h>77</h>
     </coordinates>
@@ -290,8 +262,8 @@ Enregistre la version d'ECF
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>506</x>
-      <y>825</y>
+      <x>737</x>
+      <y>836</y>
       <w>274</w>
       <h>77</h>
     </coordinates>
@@ -303,8 +275,8 @@ Enregistre l'ECF
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>506</x>
-      <y>649</y>
+      <x>737</x>
+      <y>660</y>
       <w>98</w>
       <h>98</h>
     </coordinates>
@@ -315,8 +287,8 @@ Enregistre l'ECF
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>132</x>
-      <y>847</y>
+      <x>363</x>
+      <y>858</y>
       <w>406</w>
       <h>77</h>
     </coordinates>
@@ -328,8 +300,8 @@ Enregistre l'ECF
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>154</x>
-      <y>176</y>
+      <x>385</x>
+      <y>143</y>
       <w>22</w>
       <h>22</h>
     </coordinates>
@@ -339,19 +311,19 @@ Enregistre l'ECF
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>517</x>
-      <y>187</y>
-      <w>22</w>
-      <h>44</h>
-    </coordinates>
-    <panel_attributes>bg=red</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <type>com.umlet.element.Relation</type>
-    <coordinates>
-      <x>506</x>
+      <x>748</x>
       <y>154</y>
+      <w>22</w>
+      <h>44</h>
+    </coordinates>
+    <panel_attributes>bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>737</x>
+      <y>121</y>
       <w>98</w>
       <h>98</h>
     </coordinates>
@@ -362,8 +334,8 @@ Enregistre l'ECF
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>154</x>
-      <y>231</y>
+      <x>385</x>
+      <y>198</y>
       <w>22</w>
       <h>44</h>
     </coordinates>
@@ -373,19 +345,19 @@ Enregistre l'ECF
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>517</x>
-      <y>275</y>
-      <w>22</w>
-      <h>44</h>
-    </coordinates>
-    <panel_attributes>bg=red</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <type>com.umlet.element.Relation</type>
-    <coordinates>
-      <x>506</x>
+      <x>748</x>
       <y>242</y>
+      <w>22</w>
+      <h>44</h>
+    </coordinates>
+    <panel_attributes>bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>737</x>
+      <y>209</y>
       <w>98</w>
       <h>98</h>
     </coordinates>
@@ -396,10 +368,10 @@ Enregistre l'ECF
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>154</x>
-      <y>319</y>
+      <x>385</x>
+      <y>374</y>
       <w>22</w>
-      <h>374</h>
+      <h>330</h>
     </coordinates>
     <panel_attributes>bg=yellow</panel_attributes>
     <additional_attributes/>
@@ -407,8 +379,8 @@ Enregistre l'ECF
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>517</x>
-      <y>352</y>
+      <x>748</x>
+      <y>330</y>
       <w>22</w>
       <h>44</h>
     </coordinates>
@@ -418,8 +390,8 @@ Enregistre l'ECF
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>517</x>
-      <y>418</y>
+      <x>748</x>
+      <y>429</y>
       <w>22</w>
       <h>44</h>
     </coordinates>
@@ -429,8 +401,8 @@ Enregistre l'ECF
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>517</x>
-      <y>484</y>
+      <x>748</x>
+      <y>495</y>
       <w>22</w>
       <h>44</h>
     </coordinates>
@@ -440,8 +412,8 @@ Enregistre l'ECF
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>506</x>
-      <y>319</y>
+      <x>737</x>
+      <y>297</y>
       <w>98</w>
       <h>98</h>
     </coordinates>
@@ -452,8 +424,8 @@ Enregistre l'ECF
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>506</x>
-      <y>385</y>
+      <x>737</x>
+      <y>396</y>
       <w>98</w>
       <h>98</h>
     </coordinates>
@@ -464,8 +436,8 @@ Enregistre l'ECF
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>506</x>
-      <y>451</y>
+      <x>737</x>
+      <y>462</y>
       <w>98</w>
       <h>98</h>
     </coordinates>
@@ -476,8 +448,8 @@ Enregistre l'ECF
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>517</x>
-      <y>682</y>
+      <x>748</x>
+      <y>693</y>
       <w>22</w>
       <h>220</h>
     </coordinates>
@@ -487,8 +459,8 @@ Enregistre l'ECF
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>132</x>
-      <y>869</y>
+      <x>363</x>
+      <y>880</y>
       <w>406</w>
       <h>87</h>
     </coordinates>
@@ -500,8 +472,8 @@ Enregistre l'ECF
   <element>
     <id>Text</id>
     <coordinates>
-      <x>198</x>
-      <y>935</y>
+      <x>429</x>
+      <y>946</y>
       <w>264</w>
       <h>33</h>
     </coordinates>
@@ -512,8 +484,8 @@ elementstyle=wordwrap</panel_attributes>
   <element>
     <id>Text</id>
     <coordinates>
-      <x>594</x>
-      <y>671</y>
+      <x>825</x>
+      <y>682</y>
       <w>88</w>
       <h>55</h>
     </coordinates>
@@ -524,8 +496,8 @@ elementstyle=wordwrap</panel_attributes>
   <element>
     <id>Text</id>
     <coordinates>
-      <x>594</x>
-      <y>484</y>
+      <x>825</x>
+      <y>495</y>
       <w>154</w>
       <h>66</h>
     </coordinates>
@@ -536,8 +508,8 @@ elementstyle=wordwrap</panel_attributes>
   <element>
     <id>Text</id>
     <coordinates>
-      <x>594</x>
-      <y>407</y>
+      <x>825</x>
+      <y>418</y>
       <w>154</w>
       <h>66</h>
     </coordinates>
@@ -548,20 +520,21 @@ elementstyle=wordwrap</panel_attributes>
   <element>
     <id>Text</id>
     <coordinates>
-      <x>594</x>
-      <y>341</y>
+      <x>825</x>
+      <y>319</y>
       <w>154</w>
       <h>66</h>
     </coordinates>
-    <panel_attributes>Enregistre temporairement les données saisies
+    <panel_attributes>Prépare le
+formulaire
 elementstyle=wordwrap</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Text</id>
     <coordinates>
-      <x>594</x>
-      <y>176</y>
+      <x>825</x>
+      <y>143</y>
       <w>154</w>
       <h>66</h>
     </coordinates>
@@ -572,8 +545,8 @@ elementstyle=wordwrap</panel_attributes>
   <element>
     <id>Text</id>
     <coordinates>
-      <x>594</x>
-      <y>264</y>
+      <x>825</x>
+      <y>231</y>
       <w>154</w>
       <h>66</h>
     </coordinates>
@@ -584,8 +557,8 @@ elementstyle=wordwrap</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>143</x>
-      <y>506</y>
+      <x>374</x>
+      <y>517</y>
       <w>395</w>
       <h>77</h>
     </coordinates>
@@ -598,8 +571,8 @@ Joint le corrigé en fichier
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>517</x>
-      <y>561</y>
+      <x>748</x>
+      <y>572</y>
       <w>22</w>
       <h>33</h>
     </coordinates>
@@ -609,8 +582,8 @@ Joint le corrigé en fichier
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>506</x>
-      <y>528</y>
+      <x>737</x>
+      <y>539</y>
       <w>98</w>
       <h>87</h>
     </coordinates>
@@ -621,8 +594,8 @@ Joint le corrigé en fichier
   <element>
     <id>Text</id>
     <coordinates>
-      <x>594</x>
-      <y>550</y>
+      <x>825</x>
+      <y>561</y>
       <w>154</w>
       <h>66</h>
     </coordinates>
@@ -633,8 +606,8 @@ elementstyle=wordwrap</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>143</x>
-      <y>594</y>
+      <x>374</x>
+      <y>605</y>
       <w>395</w>
       <h>109</h>
     </coordinates>
@@ -647,8 +620,8 @@ elementstyle=wordwrap</panel_attributes>
   <element>
     <id>Text</id>
     <coordinates>
-      <x>286</x>
-      <y>594</y>
+      <x>517</x>
+      <y>605</y>
       <w>154</w>
       <h>33</h>
     </coordinates>
@@ -659,8 +632,8 @@ elementstyle=wordwrap</panel_attributes>
   <element>
     <id>Text</id>
     <coordinates>
-      <x>594</x>
-      <y>627</y>
+      <x>825</x>
+      <y>638</y>
       <w>132</w>
       <h>33</h>
     </coordinates>
@@ -671,8 +644,8 @@ elementstyle=wordwrap</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>506</x>
-      <y>594</y>
+      <x>737</x>
+      <y>605</y>
       <w>98</w>
       <h>87</h>
     </coordinates>
@@ -683,12 +656,48 @@ elementstyle=wordwrap</panel_attributes>
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>517</x>
-      <y>627</y>
+      <x>748</x>
+      <y>638</y>
       <w>22</w>
       <h>33</h>
     </coordinates>
     <panel_attributes>bg=red</panel_attributes>
     <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.custom.SeqObjectActive</type>
+    <coordinates>
+      <x>385</x>
+      <y>286</y>
+      <w>22</w>
+      <h>44</h>
+    </coordinates>
+    <panel_attributes>bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>374</x>
+      <y>275</y>
+      <w>395</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Clique sur "Nouvelle Version"</panel_attributes>
+    <additional_attributes>374;55;33;55</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>374</x>
+      <y>319</y>
+      <w>395</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Affiche le formulaire de création d'une version
+</panel_attributes>
+    <additional_attributes>33;55;374;55</additional_attributes>
   </element>
 </diagram>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <diagram program="umlet" version="12.2">
-  <zoom_level>14</zoom_level>
+  <zoom_level>9</zoom_level>
   <element>
     <type>com.umlet.element.custom.InteractionFrame</type>
     <coordinates>
-      <x>0</x>
-      <y>0</y>
-      <w>1176</w>
-      <h>938</h>
+      <x>90</x>
+      <y>99</y>
+      <w>756</w>
+      <h>666</h>
     </coordinates>
-    <panel_attributes>Enregistrer absences aux ECFs </panel_attributes>
+    <panel_attributes>Inscrire un stagiaire à une épreuve  </panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <type>com.umlet.element.Class</type>
     <coordinates>
-      <x>280</x>
-      <y>84</y>
-      <w>140</w>
-      <h>42</h>
+      <x>270</x>
+      <y>153</y>
+      <w>90</w>
+      <h>27</h>
     </coordinates>
     <panel_attributes>Utilisateur
 bg=orange</panel_attributes>
@@ -27,99 +27,73 @@ bg=orange</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>308</x>
-      <y>84</y>
-      <w>70</w>
-      <h>854</h>
+      <x>288</x>
+      <y>153</y>
+      <w>44</w>
+      <h>548</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>42;42;42;826</additional_attributes>
+    <additional_attributes>27;27;27;531</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>322</x>
-      <y>196</y>
-      <w>504</w>
-      <h>98</h>
+      <x>297</x>
+      <y>225</y>
+      <w>323</w>
+      <h>63</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
 Clique sur un ECF
 </panel_attributes>
-    <additional_attributes>476;70;42;70</additional_attributes>
+    <additional_attributes>306;45;27;45</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>322</x>
-      <y>420</y>
-      <w>504</w>
-      <h>98</h>
+      <x>297</x>
+      <y>369</y>
+      <w>323</w>
+      <h>63</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Clique sur "Emargement"
+Saisir le nom d'un stagiaire
 </panel_attributes>
-    <additional_attributes>476;70;42;70</additional_attributes>
+    <additional_attributes>306;45;27;45</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>322</x>
-      <y>98</y>
-      <w>504</w>
-      <h>98</h>
+      <x>297</x>
+      <y>162</y>
+      <w>323</w>
+      <h>63</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
 Clique sur "ECF" dans le menu principal
 </panel_attributes>
-    <additional_attributes>476;70;42;70</additional_attributes>
+    <additional_attributes>306;45;27;45</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>322</x>
-      <y>154</y>
-      <w>504</w>
-      <h>98</h>
+      <x>297</x>
+      <y>198</y>
+      <w>323</w>
+      <h>63</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Affiche l'écran "Consulter ECFs"
+Affiche l'écran "Consulter ECF"
 </panel_attributes>
-    <additional_attributes>42;70;476;70</additional_attributes>
-  </element>
-  <element>
-    <type>com.umlet.element.Relation</type>
-    <coordinates>
-      <x>322</x>
-      <y>476</y>
-      <w>504</w>
-      <h>98</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;&lt;-
-Affiche un l'écran d'émargement
-</panel_attributes>
-    <additional_attributes>42;70;476;70</additional_attributes>
-  </element>
-  <element>
-    <type>com.umlet.element.Relation</type>
-    <coordinates>
-      <x>322</x>
-      <y>616</y>
-      <w>504</w>
-      <h>70</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;&lt;-
-
-</panel_attributes>
-    <additional_attributes>476;42;42;42</additional_attributes>
+    <additional_attributes>27;45;306;45</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.Class</type>
     <coordinates>
-      <x>686</x>
-      <y>84</y>
-      <w>238</w>
-      <h>42</h>
+      <x>531</x>
+      <y>153</y>
+      <w>153</w>
+      <h>27</h>
     </coordinates>
     <panel_attributes>Application Pédagogique
 bg=red</panel_attributes>
@@ -128,70 +102,70 @@ bg=red</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>770</x>
-      <y>84</y>
-      <w>70</w>
-      <h>854</h>
+      <x>585</x>
+      <y>153</y>
+      <w>44</w>
+      <h>611</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>42;42;42;826</additional_attributes>
+    <additional_attributes>27;27;27;594</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>322</x>
-      <y>728</y>
-      <w>504</w>
-      <h>98</h>
+      <x>297</x>
+      <y>513</y>
+      <w>323</w>
+      <h>99</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
 Clique sur le bouton "Enregistrer"
 </panel_attributes>
-    <additional_attributes>476;70;42;70</additional_attributes>
+    <additional_attributes>306;81;180;81;27;27</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>784</x>
-      <y>756</y>
-      <w>140</w>
-      <h>126</h>
+      <x>594</x>
+      <y>567</y>
+      <w>89</w>
+      <h>80</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes>
-    <additional_attributes>42;98;112;98;112;42;42;42</additional_attributes>
+    <additional_attributes>27;63;72;63;72;27;27;27</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>308</x>
-      <y>784</y>
-      <w>518</w>
-      <h>98</h>
+      <x>288</x>
+      <y>585</y>
+      <w>332</w>
+      <h>63</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
 { enregistrement réussi } Notifie réussite
 </panel_attributes>
-    <additional_attributes>42;70;490;70</additional_attributes>
+    <additional_attributes>27;45;315;45</additional_attributes>
   </element>
   <element>
     <id>Text</id>
     <coordinates>
-      <x>910</x>
-      <y>798</y>
-      <w>140</w>
-      <h>70</h>
+      <x>675</x>
+      <y>594</y>
+      <w>90</w>
+      <h>45</h>
     </coordinates>
-    <panel_attributes>Enregistre les absences
+    <panel_attributes>Enregistre l'épreuve
 elementstyle=wordwrap</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>336</x>
-      <y>140</y>
-      <w>28</w>
-      <h>42</h>
+      <x>306</x>
+      <y>189</y>
+      <w>18</w>
+      <h>27</h>
     </coordinates>
     <panel_attributes>bg=yellow</panel_attributes>
     <additional_attributes/>
@@ -199,10 +173,10 @@ elementstyle=wordwrap</panel_attributes>
   <element>
     <id>Text</id>
     <coordinates>
-      <x>378</x>
-      <y>896</y>
-      <w>336</w>
-      <h>42</h>
+      <x>342</x>
+      <y>648</y>
+      <w>216</w>
+      <h>27</h>
     </coordinates>
     <panel_attributes>{ enregistrement raté } Notifie échec
 elementstyle=wordwrap</panel_attributes>
@@ -211,10 +185,10 @@ elementstyle=wordwrap</panel_attributes>
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>798</x>
-      <y>168</y>
-      <w>28</w>
-      <h>56</h>
+      <x>603</x>
+      <y>207</y>
+      <w>18</w>
+      <h>36</h>
     </coordinates>
     <panel_attributes>bg=red</panel_attributes>
     <additional_attributes/>
@@ -222,21 +196,21 @@ elementstyle=wordwrap</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>784</x>
-      <y>126</y>
-      <w>154</w>
-      <h>126</h>
+      <x>594</x>
+      <y>180</y>
+      <w>98</w>
+      <h>80</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes>
-    <additional_attributes>42;98;126;98;126;42;42;42</additional_attributes>
+    <additional_attributes>27;63;81;63;81;27;27;27</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>336</x>
-      <y>224</y>
-      <w>28</w>
-      <h>42</h>
+      <x>306</x>
+      <y>243</y>
+      <w>18</w>
+      <h>27</h>
     </coordinates>
     <panel_attributes>bg=yellow</panel_attributes>
     <additional_attributes/>
@@ -244,10 +218,10 @@ elementstyle=wordwrap</panel_attributes>
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>798</x>
-      <y>266</y>
-      <w>28</w>
-      <h>56</h>
+      <x>603</x>
+      <y>270</y>
+      <w>18</w>
+      <h>36</h>
     </coordinates>
     <panel_attributes>bg=red</panel_attributes>
     <additional_attributes/>
@@ -255,34 +229,34 @@ elementstyle=wordwrap</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>322</x>
-      <y>252</y>
-      <w>504</w>
-      <h>98</h>
+      <x>297</x>
+      <y>261</y>
+      <w>323</w>
+      <h>63</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Affiche l'onglet de l'ECF
+Affiche les données de l'ECF
 </panel_attributes>
-    <additional_attributes>42;70;476;70</additional_attributes>
+    <additional_attributes>27;45;306;45</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>784</x>
-      <y>224</y>
-      <w>154</w>
-      <h>126</h>
+      <x>594</x>
+      <y>243</y>
+      <w>98</w>
+      <h>80</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes>
-    <additional_attributes>42;98;126;98;126;42;42;42</additional_attributes>
+    <additional_attributes>27;63;81;63;81;27;27;27</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>336</x>
-      <y>420</y>
-      <w>28</w>
-      <h>70</h>
+      <x>306</x>
+      <y>369</y>
+      <w>18</w>
+      <h>45</h>
     </coordinates>
     <panel_attributes>bg=yellow</panel_attributes>
     <additional_attributes/>
@@ -290,67 +264,21 @@ Affiche l'onglet de l'ECF
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>798</x>
-      <y>490</y>
-      <w>28</w>
-      <h>56</h>
-    </coordinates>
-    <panel_attributes>bg=red</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <type>com.umlet.element.Relation</type>
-    <coordinates>
-      <x>784</x>
-      <y>448</y>
-      <w>154</w>
-      <h>126</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes>
-    <additional_attributes>42;98;126;98;126;42;42;42</additional_attributes>
-  </element>
-  <element>
-    <type>com.umlet.element.custom.SeqObjectActive</type>
-    <coordinates>
-      <x>336</x>
-      <y>546</y>
-      <w>28</w>
-      <h>252</h>
+      <x>306</x>
+      <y>513</y>
+      <w>18</w>
+      <h>27</h>
     </coordinates>
     <panel_attributes>bg=yellow</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
-    <type>com.umlet.element.custom.InteractionFrame</type>
-    <coordinates>
-      <x>84</x>
-      <y>574</y>
-      <w>1036</w>
-      <h>182</h>
-    </coordinates>
-    <panel_attributes>Boucle</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>Text</id>
-    <coordinates>
-      <x>392</x>
-      <y>616</y>
-      <w>378</w>
-      <h>42</h>
-    </coordinates>
-    <panel_attributes>Saisit les stagiaires absents
-elementstyle=wordwrap
-halign=center</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>798</x>
-      <y>798</y>
-      <w>28</w>
-      <h>56</h>
+      <x>603</x>
+      <y>594</y>
+      <w>18</w>
+      <h>36</h>
     </coordinates>
     <panel_attributes>bg=red</panel_attributes>
     <additional_attributes/>
@@ -358,23 +286,23 @@ halign=center</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>308</x>
-      <y>812</y>
-      <w>518</w>
-      <h>112</h>
+      <x>288</x>
+      <y>603</y>
+      <w>332</w>
+      <h>89</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
 
 </panel_attributes>
-    <additional_attributes>42;84;420;84;490;42</additional_attributes>
+    <additional_attributes>27;72;279;72;315;27</additional_attributes>
   </element>
   <element>
     <id>Text</id>
     <coordinates>
-      <x>924</x>
-      <y>154</y>
-      <w>140</w>
-      <h>84</h>
+      <x>684</x>
+      <y>198</y>
+      <w>90</w>
+      <h>54</h>
     </coordinates>
     <panel_attributes>Prépare les données à afficher
 elementstyle=wordwrap</panel_attributes>
@@ -383,22 +311,10 @@ elementstyle=wordwrap</panel_attributes>
   <element>
     <id>Text</id>
     <coordinates>
-      <x>924</x>
-      <y>252</y>
-      <w>140</w>
-      <h>84</h>
-    </coordinates>
-    <panel_attributes>Prépare les données à afficher
-elementstyle=wordwrap</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>Text</id>
-    <coordinates>
-      <x>924</x>
-      <y>476</y>
-      <w>140</w>
-      <h>84</h>
+      <x>684</x>
+      <y>261</y>
+      <w>90</w>
+      <h>54</h>
     </coordinates>
     <panel_attributes>Prépare les données à afficher
 elementstyle=wordwrap</panel_attributes>
@@ -407,35 +323,34 @@ elementstyle=wordwrap</panel_attributes>
   <element>
     <type>com.umlet.element.Note</type>
     <coordinates>
-      <x>28</x>
-      <y>812</y>
-      <w>252</w>
-      <h>84</h>
+      <x>108</x>
+      <y>621</y>
+      <w>162</w>
+      <h>54</h>
     </coordinates>
-    <panel_attributes>On peut sélectionner 
-plusieurs stagiaires 
-d'affilée
-</panel_attributes>
+    <panel_attributes>On peut inscrire plusieurs
+stagiaires/promotions 
+de suite.</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>70</x>
-      <y>714</y>
-      <w>126</w>
-      <h>126</h>
+      <x>135</x>
+      <y>468</y>
+      <w>80</w>
+      <h>170</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>98;42;42;98</additional_attributes>
+    <additional_attributes>63;27;27;153</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>798</x>
-      <y>658</y>
-      <w>28</w>
-      <h>56</h>
+      <x>603</x>
+      <y>414</y>
+      <w>18</w>
+      <h>54</h>
     </coordinates>
     <panel_attributes>bg=red</panel_attributes>
     <additional_attributes/>
@@ -443,21 +358,21 @@ d'affilée
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>784</x>
-      <y>616</y>
-      <w>154</w>
-      <h>126</h>
+      <x>594</x>
+      <y>387</y>
+      <w>98</w>
+      <h>98</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes>
-    <additional_attributes>42;98;126;98;126;42;42;42</additional_attributes>
+    <additional_attributes>27;81;81;81;81;27;27;27</additional_attributes>
   </element>
   <element>
     <id>Text</id>
     <coordinates>
-      <x>924</x>
-      <y>644</y>
-      <w>196</w>
-      <h>84</h>
+      <x>684</x>
+      <y>414</y>
+      <w>99</w>
+      <h>63</h>
     </coordinates>
     <panel_attributes>Enregistre temporairement les données saisies
 elementstyle=wordwrap</panel_attributes>
@@ -466,10 +381,10 @@ elementstyle=wordwrap</panel_attributes>
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>336</x>
-      <y>322</y>
-      <w>28</w>
-      <h>42</h>
+      <x>306</x>
+      <y>306</y>
+      <w>18</w>
+      <h>27</h>
     </coordinates>
     <panel_attributes>bg=yellow</panel_attributes>
     <additional_attributes/>
@@ -477,22 +392,22 @@ elementstyle=wordwrap</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>322</x>
-      <y>294</y>
-      <w>504</w>
-      <h>98</h>
+      <x>297</x>
+      <y>288</y>
+      <w>323</w>
+      <h>63</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
 Clique sur une épreuve</panel_attributes>
-    <additional_attributes>476;70;42;70</additional_attributes>
+    <additional_attributes>306;45;27;45</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>798</x>
-      <y>364</y>
-      <w>28</w>
-      <h>56</h>
+      <x>603</x>
+      <y>333</y>
+      <w>18</w>
+      <h>36</h>
     </coordinates>
     <panel_attributes>bg=red</panel_attributes>
     <additional_attributes/>
@@ -500,10 +415,10 @@ Clique sur une épreuve</panel_attributes>
   <element>
     <id>Text</id>
     <coordinates>
-      <x>924</x>
-      <y>350</y>
-      <w>140</w>
-      <h>84</h>
+      <x>684</x>
+      <y>324</y>
+      <w>90</w>
+      <h>54</h>
     </coordinates>
     <panel_attributes>Prépare les données à afficher
 elementstyle=wordwrap</panel_attributes>
@@ -512,24 +427,109 @@ elementstyle=wordwrap</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>784</x>
-      <y>322</y>
-      <w>154</w>
-      <h>126</h>
+      <x>594</x>
+      <y>306</y>
+      <w>98</w>
+      <h>80</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes>
-    <additional_attributes>42;98;126;98;126;42;42;42</additional_attributes>
+    <additional_attributes>27;63;81;63;81;27;27;27</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>322</x>
-      <y>350</y>
-      <w>504</w>
-      <h>98</h>
+      <x>297</x>
+      <y>324</y>
+      <w>323</w>
+      <h>63</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Affiche l'écran "Consulter Epreuve"</panel_attributes>
-    <additional_attributes>42;70;476;70</additional_attributes>
+Affiche les données de l'épreuve
+</panel_attributes>
+    <additional_attributes>27;45;306;45</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>297</x>
+      <y>495</y>
+      <w>323</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+Clique sur le bouton "Annuler"
+</panel_attributes>
+    <additional_attributes>306;45;27;45</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.custom.SeqObjectActive</type>
+    <coordinates>
+      <x>603</x>
+      <y>540</y>
+      <w>18</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>594</x>
+      <y>513</y>
+      <w>98</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>27;63;81;63;81;27;27;27</additional_attributes>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>684</x>
+      <y>540</y>
+      <w>144</w>
+      <h>45</h>
+    </coordinates>
+    <panel_attributes>Réinitialise les champs au valeurs initiales
+elementstyle=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>297</x>
+      <y>387</y>
+      <w>323</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+
+</panel_attributes>
+    <additional_attributes>306;63;54;63;27;27</additional_attributes>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>351</x>
+      <y>423</y>
+      <w>243</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>Saisir le nom d'une promotion
+elementstyle=wordwrap
+halign=center</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.custom.InteractionFrame</type>
+    <coordinates>
+      <x>144</x>
+      <y>396</y>
+      <w>666</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes>Boucle</panel_attributes>
+    <additional_attributes/>
   </element>
 </diagram>

@@ -1,0 +1,70 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="901" measuredH="410" mockupW="624" mockupH="332">
+  <controls>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::TitleWindow" x="277" y="78" w="624" h="332" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Comptes%20Dreamspark%20%26%20Campus</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::DataGrid" x="304" y="182" w="417" h="195" measuredW="141" measuredH="53" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Promotion%20%5E%2C%20Date%20%5Ev%0A%20%0A%7B65L%2C%200R%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::FieldSet" x="304" y="109" w="417" h="64" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filtre</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::TextInput" x="397" y="128" w="-1" h="-1" measuredW="79" measuredH="27" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::TextInput" x="550" y="128" w="-1" h="-1" measuredW="79" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="319" y="131" w="-1" h="-1" measuredW="63" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Promotion</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Label" x="491" y="131" w="-1" h="-1" measuredW="34" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Date</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Button" x="644" y="128" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filtre</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::FieldSet" x="736" y="182" w="150" h="90" measuredW="200" measuredH="170" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Campus</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Button" x="751" y="199" w="120" h="27" measuredW="73" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>G%E9n%E9rer</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Button" x="751" y="231" w="120" h="27" measuredW="71" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Explorer</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::FieldSet" x="736" y="287" w="150" h="90" measuredW="200" measuredH="170" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dreamspark</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Button" x="751" y="304" w="120" h="27" measuredW="73" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>G%E9n%E9rer</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Button" x="751" y="336" w="120" h="27" measuredW="71" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Explorer</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
