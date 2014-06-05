@@ -1,0 +1,77 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="558" measuredH="421" mockupW="500" mockupH="400">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="58" y="21" w="500" h="400" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <close>true</close>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>Nouvel%20ECF</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="70" y="66" w="37" h="-1" measuredW="32" measuredH="21" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ECF%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="132" y="63" w="145" h="-1" measuredW="79" measuredH="26" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="70" y="108" w="62" h="-1" measuredW="44" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dur%E9e%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="132" y="105" w="145" h="-1" measuredW="79" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="70" y="153" w="62" h="-1" measuredW="52" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enonc%E9%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="70" y="199" w="62" h="-1" measuredW="53" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Corrig%E9%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="132" y="150" w="145" h="-1" measuredW="79" measuredH="26" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::TextInput" x="132" y="196" w="145" h="-1" measuredW="79" measuredH="26" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="266" y="150" w="-1" h="-1" measuredW="87" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Parcourir%20...</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="266" y="196" w="-1" h="-1" measuredW="87" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Parcourir%20...</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="70" y="276" w="-1" h="-1" measuredW="88" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enregistrer</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="180" y="276" w="97" h="27" measuredW="68" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Annuler</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

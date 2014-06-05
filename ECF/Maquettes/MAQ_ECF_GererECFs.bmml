@@ -1,0 +1,68 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="552" measuredH="426" mockupW="500" mockupH="400">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="52" y="26" w="500" h="400" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <close>true</close>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>G%E9rer%20les%20ECFs</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Accordion" x="52" y="51" w="479" h="320" measuredW="150" measuredH="186" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>C%23%0AR%E9seau%0AAdmin.%20Unix%0AAdmin.%20Windows</text>
+        <value>0</value>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Accordion" x="63" y="191" w="447" h="92" measuredW="150" measuredH="132" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <text>Version%201%20-%2001/05/2014%0AVersion%200%20-%2001/11/2013</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="72" y="250" w="157" h="27" measuredW="94" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Voir%20Enonc%E9</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="342" y="250" w="157" h="27" measuredW="94" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Voir%20Corrig%E9</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="383" y="116" w="124" h="27" measuredW="119" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nouvelle%20Version</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="63" y="173" w="62" h="-1" measuredW="57" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Versions%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::DataGrid" x="63" y="87" w="311" h="85" measuredW="320" measuredH="81" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <selectedIndex>0</selectedIndex>
+        <text>Date%20Epreuve%20%5E%2C%20%20Version%20%5E%2C%20Statut%20Correction%20%5E%0A%5B21/05/2014%5D%2C%20Version%201%2C%20%5BEn%20cours%5D%0A%5B01/12/2013%5D%2C%20Version%200%2C%20%5BCorrig%E9%5D</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="383" y="87" w="124" h="27" measuredW="111" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cr%E9er%20Epreuve</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="52" y="372" w="479" h="27" measuredW="93" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <text>Nouvel%20ECF</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

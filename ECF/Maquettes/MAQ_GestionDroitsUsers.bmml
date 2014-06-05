@@ -1,0 +1,38 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="567" measuredH="455" mockupW="500" mockupH="400">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="67" y="55" w="500" h="400" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <close>true</close>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>Gestion%20des%20droits%20utilisateurs</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Accordion" x="67" y="77" w="500" h="309" measuredW="150" measuredH="159" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>R%E9sultats%0AEpreuves%0AECFs</text>
+        <value>0</value>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::DataGrid" x="67" y="106" w="500" h="224" measuredW="442" measuredH="81" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hLines>false</hLines>
+        <text>Droits%2C%20Formateurs%2C%20Resp.%20P%E9dago.%2C%20Resp.%20Admin.%20%0ASaisir%20Avis%20R%E9sultats%2C%20%5Bx%5D%2C%20%5Bx%5D%2C%20%5B%5D%0AConsulter%20Avis%20R%E9sultats%2C%20%5Bx%5D%2C%20%5Bx%5D%2C%20%5Bx%5D</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="74" y="395" w="115" h="27" measuredW="88" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enregistrer</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="440" y="395" w="112" h="27" measuredW="68" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Annuler</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

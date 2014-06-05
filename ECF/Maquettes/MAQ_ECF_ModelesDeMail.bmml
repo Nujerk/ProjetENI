@@ -1,0 +1,54 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="589" measuredH="524" mockupW="500" mockupH="400">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="89" y="124" w="500" h="400" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <close>true</close>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>Mod%E8les%20de%20Mail</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="423" y="247" w="145" h="27" measuredW="141" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enregistrer%20Brouillon</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="423" y="289" w="145" h="27" measuredW="84" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Supprimer</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="423" y="331" w="145" h="27" measuredW="88" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enregistrer</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="318" y="172" w="102" h="-1" measuredW="102" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mod%E8le%20existant%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::ComboBox" x="441" y="170" w="93" h="-1" measuredW="93" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ComboBox</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="112" y="168" w="137" h="27" measuredW="121" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nouveau%20Mod%E8le</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="277" y="174" w="20" h="-1" measuredW="20" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>OU</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::TextArea" x="112" y="247" w="296" h="220" measuredW="200" measuredH="140" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::FormattingToolbar" x="112" y="220" w="296" h="-1" measuredW="261" measuredH="29" zOrder="9" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

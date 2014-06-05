@@ -1,0 +1,116 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="534" measuredH="429" mockupW="500" mockupH="400">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="34" y="29" w="500" h="400" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <close>true</close>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>Plan%20de%20salle%20Epreuve</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="41" y="96" w="485" h="300" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="41" y="68" w="91" h="-1" measuredW="82" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nb%20Rang%E9es%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::TextInput" x="132" y="65" w="45" h="-1" measuredW="23" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="200" y="68" w="92" h="-1" measuredW="82" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nb%20Colonnes%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="300" y="65" w="47" h="-1" measuredW="22" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>5</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="385" y="65" w="100" h="27" measuredW="88" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enregistrer</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::IconLabel" x="52" y="104" w="65" h="-1" measuredW="62" measuredH="39" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ContactIcon%7Csmall</icon>
+        <text>Stagiaire%201</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::IconLabel" x="123" y="104" w="65" h="-1" measuredW="65" measuredH="39" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ContactIcon%7Csmall</icon>
+        <text>Stagiaire%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::IconLabel" x="200" y="104" w="65" h="-1" measuredW="64" measuredH="39" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ContactIcon%7Csmall</icon>
+        <text>Stagiaire%203</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::IconLabel" x="359" y="104" w="65" h="-1" measuredW="65" measuredH="39" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ContactIcon%7Csmall</icon>
+        <text>Stagiaire%204</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::IconLabel" x="359" y="151" w="65" h="-1" measuredW="64" measuredH="39" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <icon>ContactIcon%7Csmall</icon>
+        <text>Stagiaire%209</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::IconLabel" x="52" y="151" w="65" h="-1" measuredW="65" measuredH="39" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ContactIcon%7Csmall</icon>
+        <text>Stagiaire%206</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::IconLabel" x="122" y="151" w="65" h="-1" measuredW="64" measuredH="39" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ContactIcon%7Csmall</icon>
+        <text>Stagiaire%207</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::IconLabel" x="200" y="151" w="65" h="-1" measuredW="64" measuredH="39" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ContactIcon%7Csmall</icon>
+        <text>Stagiaire%208</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::IconLabel" x="282" y="104" w="65" h="-1" measuredW="63" measuredH="39" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>XIcon%7Csmall</icon>
+        <state>up</state>
+        <text>Inoccup%E9e</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::IconLabel" x="282" y="151" w="65" h="-1" measuredW="63" measuredH="39" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>XIcon%7Csmall</icon>
+        <state>up</state>
+        <text>Inoccup%E9e</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::ComboBox" x="372" y="151" w="-1" h="-1" measuredW="54" measuredH="24" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <color>2848996</color>
+        <icon>ContactIcon%7Csmall</icon>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

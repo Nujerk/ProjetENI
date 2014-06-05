@@ -1,0 +1,51 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="555" measuredH="444" mockupW="500" mockupH="400">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="55" y="44" w="500" h="400" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <close>true</close>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>Consulter%20Avis%20sur%20R%E9sultat%20-%20Stagiaire%201</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="72" y="162" w="-1" h="-1" measuredW="31" measuredH="21" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Avis%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="367" y="79" w="145" h="27" measuredW="85" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Saisir%20Avis</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::DataGrid" x="72" y="186" w="320" h="223" measuredW="220" measuredH="69" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hasHeader>false</hasHeader>
+        <text>Travail%20correct%5C%2C%20%E0%20poursuivre%5Cn%20le%2001/04/05%5C%2C%20par%20Formateur1%0APeut%20mieux%20faire%5Cn%20le%2001/02/05%5C%2C%20par%20Responsable1</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="72" y="82" w="37" h="-1" measuredW="32" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ECF%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="137" y="79" w="142" h="-1" measuredW="32" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text>C%23</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="72" y="120" w="-1" h="-1" measuredW="57" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>R%E9sultat%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="137" y="117" w="142" h="-1" measuredW="22" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text>5</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
