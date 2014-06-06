@@ -1,8 +1,8 @@
 <mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1159" measuredH="673" mockupW="887" mockupH="608">
   <controls>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::DataGrid" x="489" y="173" w="519" h="171" measuredW="259" measuredH="83" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::DataGrid" x="489" y="173" w="519" h="171" measuredW="248" measuredH="83" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Auteur%20%5E%2C%20Module%2C%20Date%2C%20Avis%0AMatthieu%2C%20Java%2C%2001/02/2014%2C%20Blabla%0A%20%0A%7B0L%2C%200L%2C%200L%2C%2065R%7D</text>
+        <text>Auteur%20%5E%2C%20Module%2C%20Date%2C%20Avis%0AMatthieu%2C%20Java%2C%2001/02/2014%2C%20...%0A%20%0A%7B0L%2C%200L%2C%200L%2C%2065R%7D</text>
       </controlProperties>
     </control>
     <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="489" y="152" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
@@ -19,10 +19,10 @@
         <text>Application%20p%E9dagogique%20-%20Fiche%20stagiaire</text>
       </controlProperties>
     </control>
-    <control controlID="30" controlTypeID="com.balsamiq.mockups::TabBar" x="474" y="117" w="651" h="538" measuredW="380" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::TabBar" x="474" y="117" w="651" h="538" measuredW="533" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <selectedIndex>1</selectedIndex>
-        <text>Absences%20%26%20retards%2C%20Avis%20%26%20Echanges%2C%20Entreprise</text>
+        <selectedIndex>2</selectedIndex>
+        <text>Informations%2C%20Absences%20%26%20retards%2C%20Avis%20%26%20Echanges%2C%20Entreprise%2C%20ECF%2C%20Session</text>
       </controlProperties>
     </control>
     <control controlID="34" controlTypeID="com.balsamiq.mockups::Button" x="1022" y="227" w="-1" h="-1" measuredW="82" measuredH="27" zOrder="2" locked="false" isInGroup="-1">

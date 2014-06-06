@@ -9,15 +9,15 @@
         <text>Application%20p%E9dagogique%20-%20Fiche%20stagiaire</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::TabBar" x="410" y="95" w="651" h="538" measuredW="380" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TabBar" x="410" y="95" w="651" h="538" measuredW="533" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <selectedIndex>0</selectedIndex>
-        <text>Absences%20%26%20retards%2C%20Avis%20%26%20Echanges%2C%20Entreprise</text>
+        <selectedIndex>1</selectedIndex>
+        <text>Informations%2C%20Absences%20%26%20retards%2C%20Avis%20%26%20Echanges%2C%20Entreprise%2C%20ECF%2C%20Session</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::DataGrid" x="433" y="151" w="519" h="187" measuredW="144" measuredH="83" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::DataGrid" x="433" y="151" w="519" h="187" measuredW="236" measuredH="83" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Date%20%5E%2C%20Motif%0A02/02/2014%2C%20Malade%0A%20%0A%7B0L%2C%2065R%7D</text>
+        <text>Date%20d%E9but%20%5E%2C%20Date%20fin%2C%20Motif%0A02/02/2014%2C%2004/02/2014%2C%20Malade%0A%20%0A%7B0L%2C%200L%2C%2065R%7D</text>
       </controlProperties>
     </control>
     <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="433" y="130" w="-1" h="-1" measuredW="64" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
@@ -30,8 +30,8 @@
         <text>Retards</text>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="579" y="408" w="-1" h="-1" measuredW="79" measuredH="27" zOrder="20" locked="false" isInGroup="-1"/>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="500" y="411" w="-1" h="-1" measuredW="34" measuredH="21" zOrder="21" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="579" y="380" w="-1" h="-1" measuredW="79" measuredH="27" zOrder="20" locked="false" isInGroup="-1"/>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="500" y="383" w="-1" h="-1" measuredW="34" measuredH="21" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Date</text>
       </controlProperties>
@@ -118,7 +118,7 @@
         <text>Modifier</text>
       </controlProperties>
     </control>
-    <control controlID="38" controlTypeID="com.balsamiq.mockups::Canvas" x="485" y="383" w="427" h="166" measuredW="100" measuredH="70" zOrder="19" locked="false" isInGroup="-1"/>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Canvas" x="485" y="369" w="427" h="180" measuredW="100" measuredH="70" zOrder="19" locked="false" isInGroup="-1"/>
     <control controlID="39" controlTypeID="com.balsamiq.mockups::Button" x="714" y="507" w="-1" h="-1" measuredW="67" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Annuler</text>
@@ -137,6 +137,17 @@
     <control controlID="42" controlTypeID="com.balsamiq.mockups::Button" x="958" y="396" w="82" h="27" measuredW="69" measuredH="27" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Modifier</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::TextInput" x="579" y="407" w="-1" h="-1" measuredW="79" measuredH="27" zOrder="30" locked="false" isInGroup="-1"/>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Label" x="500" y="410" w="-1" h="-1" measuredW="41" measuredH="21" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Heure</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::CheckBox" x="689" y="408" w="-1" h="-1" measuredW="67" measuredH="22" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Justifi%E9</text>
       </controlProperties>
     </control>
   </controls>

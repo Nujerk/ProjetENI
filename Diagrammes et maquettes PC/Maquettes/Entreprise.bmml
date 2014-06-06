@@ -9,10 +9,10 @@
         <text>Application%20p%E9dagogique%20-%20Fiche%20stagiaire</text>
       </controlProperties>
     </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::TabBar" x="482" y="127" w="651" h="538" measuredW="380" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::TabBar" x="482" y="127" w="651" h="538" measuredW="533" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <selectedIndex>1</selectedIndex>
-        <text>Absences%20%26%20retards%2C%20Avis%20%26%20Echanges%2C%20Entreprise</text>
+        <selectedIndex>3</selectedIndex>
+        <text>Informations%2C%20Absences%20%26%20retards%2C%20Avis%20%26%20Echanges%2C%20Entreprise%2C%20ECF%2C%20Session</text>
       </controlProperties>
     </control>
     <control controlID="23" controlTypeID="com.balsamiq.mockups::Button" x="1030" y="243" w="-1" h="-1" measuredW="82" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
@@ -86,26 +86,36 @@
         <text>Appels%20tuteurs</text>
       </controlProperties>
     </control>
-    <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="511" y="378" w="-1" h="-1" measuredW="107" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="853" y="409" w="107" h="21" measuredW="107" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Plannifier%20un%20appel</text>
       </controlProperties>
     </control>
-    <control controlID="46" controlTypeID="com.balsamiq.mockups::TextInput" x="590" y="407" w="-1" h="-1" measuredW="79" measuredH="27" zOrder="18" locked="false" isInGroup="-1"/>
-    <control controlID="47" controlTypeID="com.balsamiq.mockups::Label" x="511" y="410" w="-1" h="-1" measuredW="34" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::TextInput" x="932" y="438" w="79" h="-1" measuredW="79" measuredH="27" zOrder="18" locked="false" isInGroup="-1"/>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Label" x="853" y="441" w="34" h="21" measuredW="34" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Date</text>
       </controlProperties>
     </control>
-    <control controlID="48" controlTypeID="com.balsamiq.mockups::TextArea" x="590" y="440" w="311" h="64" measuredW="200" measuredH="140" zOrder="20" locked="false" isInGroup="-1"/>
-    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="511" y="434" w="-1" h="-1" measuredW="41" measuredH="21" zOrder="21" locked="false" isInGroup="-1">
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::TextArea" x="932" y="471" w="178" h="64" measuredW="200" measuredH="140" zOrder="20" locked="false" isInGroup="-1"/>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="853" y="465" w="41" h="21" measuredW="41" measuredH="21" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Notes</text>
       </controlProperties>
     </control>
-    <control controlID="50" controlTypeID="com.balsamiq.mockups::Button" x="916" y="471" w="-1" h="-1" measuredW="66" measuredH="27" zOrder="22" locked="false" isInGroup="-1">
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Button" x="932" y="543" w="-1" h="-1" measuredW="66" measuredH="27" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Ajouter</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::DataGrid" x="507" y="429" w="325" h="153" measuredW="107" measuredH="83" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Date%20%5E%2C%20Notes%0A%20%0A%20%0A%7B0L%2C%2065R%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Label" x="507" y="406" w="89" h="21" measuredW="87" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Appels%20%E0%20venir</text>
       </controlProperties>
     </control>
   </controls>

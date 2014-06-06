@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="12.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>160</x>
+      <y>220</y>
+      <w>210</w>
+      <h>130</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;interface&gt;&gt;
+IRepository&lt;T&gt;
+--
+--
++Add(entity: T)
++Update(entity: T)
++Delete(entity: T)
++GetAll(): List&lt;T&gt;
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>160</x>
+      <y>400</y>
+      <w>210</w>
+      <h>130</h>
+    </coordinates>
+    <panel_attributes>EFRepository&lt;T&gt;
+--
+--
++Add(entity: T)
++Update(entity: T)
++Delete(entity: T)
++GetAll(): List&lt;T&gt;
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>230</x>
+      <y>320</y>
+      <w>50</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;.</panel_attributes>
+    <additional_attributes>30;30;30;80</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>1100</x>
+      <y>370</y>
+      <w>210</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>Absence
+--
++Id: int
++Stagiaire: Stagiaire
++DateDebut: Date
++DateFin: Date
++Matin: Boolean
++Motif: String
++MailEnvoye: Boolean
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>530</x>
+      <y>380</y>
+      <w>400</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>AbsenceService
+--
+-absenceRepository: IRepository&lt;Absence&gt;
+--
++AjouterAbsence(abs: Absence)
++ModifierAbsence(abs: Absence)
++SupprimerAbsence(abs: Absence)
++RecupererAbsencesStagiaire(s: Stagiaire): List&lt;Absence&gt;
++ExporterAbsencesStagiaireVersExcel(s: Stagiaire)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Note</type>
+    <coordinates>
+      <x>50</x>
+      <y>130</y>
+      <w>380</w>
+      <h>470</h>
+    </coordinates>
+    <panel_attributes>Data access layer</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Note</type>
+    <coordinates>
+      <x>510</x>
+      <y>130</y>
+      <w>440</w>
+      <h>470</h>
+    </coordinates>
+    <panel_attributes>Service layer</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Note</type>
+    <coordinates>
+      <x>1020</x>
+      <y>130</y>
+      <w>380</w>
+      <h>470</h>
+    </coordinates>
+    <panel_attributes>Entities</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>340</x>
+      <y>420</y>
+      <w>210</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>30;30;190;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>900</x>
+      <y>430</y>
+      <w>220</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>200;30;30;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Note</type>
+    <coordinates>
+      <x>510</x>
+      <y>620</y>
+      <w>440</w>
+      <h>200</h>
+    </coordinates>
+    <panel_attributes>Views</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>530</x>
+      <y>670</y>
+      <w>400</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>FormStagiaire
+--
+--
++BtnAjouterAbsence_click()
++BtnModifierAbsence_click()
++BtnSupprimerAbsence_click()
++BtnExportExcel_click()</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>700</x>
+      <y>490</y>
+      <w>50</w>
+      <h>200</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>30;30;30;180</additional_attributes>
+  </element>
+</diagram>
