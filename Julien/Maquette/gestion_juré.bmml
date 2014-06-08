@@ -1,0 +1,89 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1034" measuredH="505" mockupW="500" mockupH="425">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="534" y="80" w="500" h="425" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <close>true</close>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>Gestion%20Jur%E9</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="557" y="203" w="311" h="230" measuredW="266" measuredH="81" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>Nom%20%5E%2C%20Titre%2C%20Date%20homolagation%2C%20...%0AJur%E9%201%2C%20AL%20CDI%2C%2001/01/2009%2C%20%0AJur%E9%202%2C%20MSI%2C%2001/06/2013%2C%20</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="876" y="203" w="137" h="27" measuredW="105" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nouveau%20Jur%E9</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="876" y="232" w="137" h="27" measuredW="101" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Modifier%20Jur%E9</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="876" y="262" w="137" h="27" measuredW="115" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Supprimer%20Jur%E9</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::FieldSet" x="556" y="112" w="457" h="82" measuredW="200" measuredH="170" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filtre</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="566" y="130" w="-1" h="-1" measuredW="33" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nom%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="614" y="127" w="93" h="-1" measuredW="79" measuredH="26" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="566" y="158" w="-1" h="-1" measuredW="35" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Titre%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::ComboBox" x="614" y="156" w="-1" h="-1" measuredW="93" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ComboBox</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Icon" x="931" y="129" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SearchIcon%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="876" y="291" w="137" h="27" measuredW="103" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Affecter%20Jur%E9</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="726" y="129" w="-1" h="-1" measuredW="86" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Date%20Session%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::DateChooser" x="819" y="127" w="97" h="-1" measuredW="90" measuredH="25" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20/%20%20/%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::DateChooser" x="819" y="156" w="97" h="-1" measuredW="90" measuredH="25" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20/%20%20/%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="798" y="156" w="-1" h="-1" measuredW="13" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20-%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

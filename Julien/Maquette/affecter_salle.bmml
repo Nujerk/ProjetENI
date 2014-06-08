@@ -1,0 +1,48 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1009" measuredH="377" mockupW="500" mockupH="201">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="509" y="176" w="500" h="201" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <close>true</close>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>Affecter%20Salle</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="845" y="322" w="137" h="27" measuredW="63" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Valider</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="844" y="208" w="137" h="27" measuredW="66" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ajouter</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::DataGrid" x="532" y="238" w="450" h="80" measuredW="92" measuredH="81" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Salle%2C%20Del%0A101%2C%20X%0A102%2C%20X</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="533" y="211" w="-1" h="-1" measuredW="35" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Date%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="582" y="211" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>01/05/2014</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="670" y="212" w="-1" h="-1" measuredW="36" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Salle%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::ComboBox" x="716" y="209" w="108" h="-1" measuredW="93" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ComboBox</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

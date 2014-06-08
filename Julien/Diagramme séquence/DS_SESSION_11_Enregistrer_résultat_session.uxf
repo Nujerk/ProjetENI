@@ -5,9 +5,9 @@
     <type>com.umlet.element.custom.InteractionFrame</type>
     <coordinates>
       <x>190</x>
-      <y>240</y>
+      <y>210</y>
       <w>570</w>
-      <h>350</h>
+      <h>380</h>
     </coordinates>
     <panel_attributes>Enregistre résultat session</panel_attributes>
     <additional_attributes/>
@@ -56,7 +56,7 @@ Application Pédagogique</panel_attributes>
       <h>70</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Choisi un STAGIAIRE
+Choisit un STAGIAIRE
 </panel_attributes>
     <additional_attributes>390;50;30;50</additional_attributes>
   </element>
@@ -103,7 +103,7 @@ Clique sur l'onglet "Session"
     <type>com.umlet.element.Note</type>
     <coordinates>
       <x>190</x>
-      <y>200</y>
+      <y>250</y>
       <w>210</w>
       <h>30</h>
     </coordinates>
@@ -165,7 +165,7 @@ bg=blue</panel_attributes>
       <h>70</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Choisi une SESSION
+Choisit une SESSION
 </panel_attributes>
     <additional_attributes>390;50;30;50</additional_attributes>
   </element>
@@ -178,7 +178,7 @@ Choisi une SESSION
       <h>70</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Saisir les données du résultat
+Saisit les données du résultat
 </panel_attributes>
     <additional_attributes>390;50;30;50</additional_attributes>
   </element>
@@ -191,7 +191,7 @@ Saisir les données du résultat
       <h>70</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Clique sur le bouton "Valider Resultat"
+Clique sur le bouton "Valider Résultat"
 </panel_attributes>
     <additional_attributes>390;50;30;50</additional_attributes>
   </element>

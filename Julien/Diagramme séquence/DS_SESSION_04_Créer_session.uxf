@@ -5,9 +5,9 @@
     <type>com.umlet.element.custom.InteractionFrame</type>
     <coordinates>
       <x>50</x>
-      <y>220</y>
+      <y>190</y>
       <w>850</w>
-      <h>410</h>
+      <h>440</h>
     </coordinates>
     <panel_attributes>Créer une session</panel_attributes>
     <additional_attributes/>
@@ -94,7 +94,7 @@ Application Pédagogique</panel_attributes>
       <h>70</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Cliquer sur le bouton "Valider"
+Clique sur le bouton "Valider"
 </panel_attributes>
     <additional_attributes>370;50;30;50</additional_attributes>
   </element>
@@ -181,7 +181,7 @@ administratif CP
     <type>com.umlet.element.Note</type>
     <coordinates>
       <x>50</x>
-      <y>180</y>
+      <y>230</y>
       <w>210</w>
       <h>30</h>
     </coordinates>
@@ -222,7 +222,7 @@ bg=default</panel_attributes>
       <h>70</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Saisir les données de la session
+Saisit les données de la session
 </panel_attributes>
     <additional_attributes>370;50;30;50</additional_attributes>
   </element>

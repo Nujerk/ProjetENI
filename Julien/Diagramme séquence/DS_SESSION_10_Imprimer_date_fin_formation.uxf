@@ -5,9 +5,9 @@
     <type>com.umlet.element.custom.InteractionFrame</type>
     <coordinates>
       <x>170</x>
-      <y>340</y>
+      <y>310</y>
       <w>640</w>
-      <h>220</h>
+      <h>250</h>
     </coordinates>
     <panel_attributes>Imprimer fiche date de fin de formation</panel_attributes>
     <additional_attributes/>
@@ -84,7 +84,7 @@ administratif CP
       <h>70</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Retourne la lise des dates de fin de formation</panel_attributes>
+Retourne la liste des dates de fin de formation</panel_attributes>
     <additional_attributes>30;50;390;50</additional_attributes>
   </element>
   <element>
@@ -104,7 +104,7 @@ LY Nadine
     <type>com.umlet.element.Note</type>
     <coordinates>
       <x>170</x>
-      <y>300</y>
+      <y>350</y>
       <w>210</w>
       <h>30</h>
     </coordinates>

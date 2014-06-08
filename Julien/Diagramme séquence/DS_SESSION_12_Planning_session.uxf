@@ -5,7 +5,7 @@
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>296</x>
-      <y>232</y>
+      <y>168</y>
       <w>328</w>
       <h>56</h>
     </coordinates>
@@ -18,7 +18,7 @@ Selectionne une date
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>296</x>
-      <y>280</y>
+      <y>216</y>
       <w>328</w>
       <h>56</h>
     </coordinates>
@@ -30,7 +30,7 @@ Affiche la fenêtre SALLE</panel_attributes>
     <type>com.umlet.element.Class</type>
     <coordinates>
       <x>272</x>
-      <y>128</y>
+      <y>64</y>
       <w>80</w>
       <h>32</h>
     </coordinates>
@@ -43,7 +43,7 @@ LY Nadine
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>288</x>
-      <y>136</y>
+      <y>72</y>
       <w>40</w>
       <h>696</h>
     </coordinates>
@@ -55,7 +55,7 @@ bg=default</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>592</x>
-      <y>136</y>
+      <y>72</y>
       <w>40</w>
       <h>696</h>
     </coordinates>
@@ -66,7 +66,7 @@ bg=default</panel_attributes>
     <type>com.umlet.element.Class</type>
     <coordinates>
       <x>544</x>
-      <y>128</y>
+      <y>64</y>
       <w>144</w>
       <h>32</h>
     </coordinates>
@@ -78,7 +78,7 @@ Application Pédagogique</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>592</x>
-      <y>344</y>
+      <y>280</y>
       <w>126</w>
       <h>66</h>
     </coordinates>
@@ -91,7 +91,7 @@ Application Pédagogique</panel_attributes>
     <type>com.umlet.element.Class</type>
     <coordinates>
       <x>160</x>
-      <y>128</y>
+      <y>64</y>
       <w>104</w>
       <h>32</h>
     </coordinates>
@@ -105,7 +105,7 @@ administratif CP
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>296</x>
-      <y>184</y>
+      <y>120</y>
       <w>328</w>
       <h>56</h>
     </coordinates>
@@ -117,12 +117,12 @@ Affiche la fenêtre PLANNING SESSION</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>296</x>
-      <y>208</y>
+      <y>144</y>
       <w>328</w>
       <h>56</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Ajouter une date dans le tableau
+Ajoute une date dans le tableau
 </panel_attributes>
     <additional_attributes>312;40;24;40</additional_attributes>
   </element>
@@ -130,7 +130,7 @@ Ajouter une date dans le tableau
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>296</x>
-      <y>328</y>
+      <y>264</y>
       <w>328</w>
       <h>56</h>
     </coordinates>
@@ -143,7 +143,7 @@ Clique sur le bouton "Ajouter" ensuite "Valider"
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>296</x>
-      <y>352</y>
+      <y>288</y>
       <w>328</w>
       <h>56</h>
     </coordinates>
@@ -155,12 +155,12 @@ Affiche la fenêtre PLANNING SESSION</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>296</x>
-      <y>376</y>
+      <y>312</y>
       <w>328</w>
       <h>56</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Clique sur le bouton "Affecter Jury"
+Clique sur le bouton "Affecter Juré"
 </panel_attributes>
     <additional_attributes>312;40;24;40</additional_attributes>
   </element>
@@ -168,7 +168,7 @@ Clique sur le bouton "Affecter Jury"
     <type>com.umlet.element.Note</type>
     <coordinates>
       <x>136</x>
-      <y>56</y>
+      <y>32</y>
       <w>168</w>
       <h>24</h>
     </coordinates>
@@ -180,7 +180,7 @@ bg=blue</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>192</x>
-      <y>136</y>
+      <y>72</y>
       <w>136</w>
       <h>56</h>
     </coordinates>
@@ -192,7 +192,7 @@ bg=default</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>296</x>
-      <y>160</y>
+      <y>96</y>
       <w>328</w>
       <h>56</h>
     </coordinates>
@@ -205,12 +205,12 @@ Clique sur le bouton "Planifier Session"
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>296</x>
-      <y>304</y>
+      <y>240</y>
       <w>328</w>
       <h>56</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Saisir les données d'une salle
+Saisit les données d'une salle
 </panel_attributes>
     <additional_attributes>312;40;24;40</additional_attributes>
   </element>
@@ -218,9 +218,9 @@ Saisir les données d'une salle
     <type>com.umlet.element.custom.InteractionFrame</type>
     <coordinates>
       <x>136</x>
-      <y>88</y>
+      <y>0</y>
       <w>616</w>
-      <h>776</h>
+      <h>768</h>
     </coordinates>
     <panel_attributes>Planning Session</panel_attributes>
     <additional_attributes/>
@@ -229,7 +229,7 @@ Saisir les données d'une salle
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
       <x>304</x>
-      <y>192</y>
+      <y>128</y>
       <w>16</w>
       <h>16</h>
     </coordinates>
@@ -240,7 +240,7 @@ Saisir les données d'une salle
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
       <x>304</x>
-      <y>216</y>
+      <y>152</y>
       <w>16</w>
       <h>88</h>
     </coordinates>
@@ -251,7 +251,7 @@ Saisir les données d'une salle
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
       <x>304</x>
-      <y>312</y>
+      <y>248</y>
       <w>16</w>
       <h>64</h>
     </coordinates>
@@ -262,7 +262,7 @@ Saisir les données d'une salle
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
       <x>304</x>
-      <y>384</y>
+      <y>320</y>
       <w>16</w>
       <h>40</h>
     </coordinates>
@@ -273,7 +273,7 @@ Saisir les données d'une salle
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
       <x>608</x>
-      <y>192</y>
+      <y>128</y>
       <w>16</w>
       <h>40</h>
     </coordinates>
@@ -284,7 +284,7 @@ Saisir les données d'une salle
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
       <x>608</x>
-      <y>240</y>
+      <y>176</y>
       <w>16</w>
       <h>88</h>
     </coordinates>
@@ -295,7 +295,7 @@ Saisir les données d'une salle
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
       <x>608</x>
-      <y>336</y>
+      <y>272</y>
       <w>16</w>
       <h>64</h>
     </coordinates>
@@ -306,7 +306,7 @@ Saisir les données d'une salle
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
       <x>608</x>
-      <y>408</y>
+      <y>344</y>
       <w>16</w>
       <h>184</h>
     </coordinates>
@@ -317,7 +317,7 @@ Saisir les données d'une salle
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>296</x>
-      <y>256</y>
+      <y>192</y>
       <w>328</w>
       <h>56</h>
     </coordinates>
@@ -330,24 +330,24 @@ Clique sur le bouton "Ajouter Salle"
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>296</x>
-      <y>400</y>
+      <y>336</y>
       <w>328</w>
       <h>56</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Affiche la fenêtre GESTION JURY</panel_attributes>
+Affiche la fenêtre GESTION JURÉ</panel_attributes>
     <additional_attributes>24;40;312;40</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>296</x>
-      <y>424</y>
+      <y>360</y>
       <w>328</w>
       <h>56</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Saisir les données de la sesion dans la zone filtre
+Saisit les données de la sesion dans la zone filtre
 </panel_attributes>
     <additional_attributes>312;40;24;40</additional_attributes>
   </element>
@@ -355,12 +355,12 @@ Saisir les données de la sesion dans la zone filtre
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>296</x>
-      <y>496</y>
+      <y>432</y>
       <w>328</w>
       <h>56</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Choisir un ou plusieurs jury
+Choisit un ou plusieurs juré
 </panel_attributes>
     <additional_attributes>312;40;24;40</additional_attributes>
   </element>
@@ -368,12 +368,12 @@ Choisir un ou plusieurs jury
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>296</x>
-      <y>520</y>
+      <y>456</y>
       <w>328</w>
       <h>56</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Clique sur le bouton "Affecter Jury"
+Clique sur le bouton "Affecter Juré"
 </panel_attributes>
     <additional_attributes>312;40;24;40</additional_attributes>
   </element>
@@ -381,7 +381,7 @@ Clique sur le bouton "Affecter Jury"
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>296</x>
-      <y>448</y>
+      <y>384</y>
       <w>328</w>
       <h>56</h>
     </coordinates>
@@ -394,19 +394,19 @@ Clique sur le bouton "Filtre"
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>296</x>
-      <y>472</y>
+      <y>408</y>
       <w>328</w>
       <h>56</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Retourne une liste de jury</panel_attributes>
+Retourne une liste de juré</panel_attributes>
     <additional_attributes>24;40;312;40</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
       <x>304</x>
-      <y>432</y>
+      <y>368</y>
       <w>16</w>
       <h>64</h>
     </coordinates>
@@ -417,7 +417,7 @@ Retourne une liste de jury</panel_attributes>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
       <x>304</x>
-      <y>504</y>
+      <y>440</y>
       <w>16</w>
       <h>64</h>
     </coordinates>
@@ -428,20 +428,20 @@ Retourne une liste de jury</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>592</x>
-      <y>536</y>
+      <y>472</y>
       <w>126</w>
       <h>66</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-
           Enregistre
-          les jurys</panel_attributes>
+          les jurés</panel_attributes>
     <additional_attributes>32;48;64;48;64;24;32;24</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>296</x>
-      <y>544</y>
+      <y>480</y>
       <w>328</w>
       <h>56</h>
     </coordinates>
@@ -453,7 +453,7 @@ Affiche la fenêtre PLANNING SESSION</panel_attributes>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
       <x>304</x>
-      <y>576</y>
+      <y>512</y>
       <w>16</w>
       <h>40</h>
     </coordinates>
@@ -464,7 +464,7 @@ Affiche la fenêtre PLANNING SESSION</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>296</x>
-      <y>568</y>
+      <y>504</y>
       <w>328</w>
       <h>56</h>
     </coordinates>
@@ -477,7 +477,7 @@ Clique sur le bouton "Affecter Stagiaire"
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
       <x>608</x>
-      <y>600</y>
+      <y>536</y>
       <w>16</w>
       <h>40</h>
     </coordinates>
@@ -488,7 +488,7 @@ Clique sur le bouton "Affecter Stagiaire"
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>296</x>
-      <y>592</y>
+      <y>528</y>
       <w>328</w>
       <h>56</h>
     </coordinates>
@@ -500,7 +500,7 @@ Affiche la fenêtre GESTION STAGIAIRE</panel_attributes>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
       <x>304</x>
-      <y>624</y>
+      <y>560</y>
       <w>16</w>
       <h>64</h>
     </coordinates>
@@ -511,12 +511,12 @@ Affiche la fenêtre GESTION STAGIAIRE</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>296</x>
-      <y>616</y>
+      <y>552</y>
       <w>328</w>
       <h>56</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Choisir un ou plusieurs stagiaires
+Choisit un ou plusieurs stagiaires
 </panel_attributes>
     <additional_attributes>312;40;24;40</additional_attributes>
   </element>
@@ -524,7 +524,7 @@ Choisir un ou plusieurs stagiaires
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>296</x>
-      <y>640</y>
+      <y>576</y>
       <w>328</w>
       <h>56</h>
     </coordinates>
@@ -537,7 +537,7 @@ Clique sur le bouton "Affecter Stagiaires"
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>296</x>
-      <y>664</y>
+      <y>600</y>
       <w>328</w>
       <h>56</h>
     </coordinates>
@@ -549,7 +549,7 @@ Affiche la fenêtre PLANNING SESSION</panel_attributes>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
       <x>608</x>
-      <y>648</y>
+      <y>584</y>
       <w>16</w>
       <h>64</h>
     </coordinates>
@@ -560,7 +560,7 @@ Affiche la fenêtre PLANNING SESSION</panel_attributes>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
       <x>304</x>
-      <y>696</y>
+      <y>632</y>
       <w>16</w>
       <h>40</h>
     </coordinates>
@@ -571,7 +571,7 @@ Affiche la fenêtre PLANNING SESSION</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>584</x>
-      <y>656</y>
+      <y>592</y>
       <w>140</w>
       <h>66</h>
     </coordinates>
@@ -584,7 +584,7 @@ Affiche la fenêtre PLANNING SESSION</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>296</x>
-      <y>688</y>
+      <y>624</y>
       <w>328</w>
       <h>56</h>
     </coordinates>
@@ -597,7 +597,7 @@ Clique sur le bouton "Valider"
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>296</x>
-      <y>712</y>
+      <y>648</y>
       <w>328</w>
       <h>74</h>
     </coordinates>
@@ -611,7 +611,7 @@ de l'enregistrement
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>296</x>
-      <y>744</y>
+      <y>680</y>
       <w>328</w>
       <h>56</h>
     </coordinates>
@@ -623,7 +623,7 @@ Affiche la fenêtre STAGIAIRE</panel_attributes>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
       <x>608</x>
-      <y>720</y>
+      <y>656</y>
       <w>16</w>
       <h>72</h>
     </coordinates>
@@ -634,7 +634,7 @@ Affiche la fenêtre STAGIAIRE</panel_attributes>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
       <x>304</x>
-      <y>744</y>
+      <y>680</y>
       <w>16</w>
       <h>48</h>
     </coordinates>
@@ -645,7 +645,7 @@ Affiche la fenêtre STAGIAIRE</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>584</x>
-      <y>704</y>
+      <y>640</y>
       <w>130</w>
       <h>66</h>
     </coordinates>

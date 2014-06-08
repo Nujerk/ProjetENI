@@ -5,9 +5,9 @@
     <type>com.umlet.element.custom.InteractionFrame</type>
     <coordinates>
       <x>50</x>
-      <y>200</y>
+      <y>170</y>
       <w>870</w>
-      <h>550</h>
+      <h>570</h>
     </coordinates>
     <panel_attributes>Modifier une session</panel_attributes>
     <additional_attributes/>
@@ -46,7 +46,7 @@ Affiche la fenêtre SESSION</panel_attributes>
       <h>40</h>
     </coordinates>
     <panel_attributes>bg=orange
-Nadine
+LY Nadine
 </panel_attributes>
     <additional_attributes/>
   </element>
@@ -107,7 +107,7 @@ Application Pédagogique</panel_attributes>
       <h>70</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Cliquer sur le bouton "Valider"
+Clique sur le bouton "Valider"
 </panel_attributes>
     <additional_attributes>390;50;30;50</additional_attributes>
   </element>
@@ -268,7 +268,7 @@ Modifie les données de la session
     <type>com.umlet.element.Note</type>
     <coordinates>
       <x>50</x>
-      <y>160</y>
+      <y>210</y>
       <w>210</w>
       <h>30</h>
     </coordinates>
@@ -309,7 +309,7 @@ bg=default</panel_attributes>
       <h>70</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Saisir les données dans la zone filtre
+Saisit les données dans la zone filtre
 </panel_attributes>
     <additional_attributes>390;50;30;50</additional_attributes>
   </element>

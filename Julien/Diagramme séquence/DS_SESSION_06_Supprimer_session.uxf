@@ -5,9 +5,9 @@
     <type>com.umlet.element.custom.InteractionFrame</type>
     <coordinates>
       <x>60</x>
-      <y>250</y>
+      <y>220</y>
       <w>880</w>
-      <h>420</h>
+      <h>450</h>
     </coordinates>
     <panel_attributes>Supprimer une session</panel_attributes>
     <additional_attributes/>
@@ -195,7 +195,7 @@ Selectionne une session
     <type>com.umlet.element.Note</type>
     <coordinates>
       <x>60</x>
-      <y>210</y>
+      <y>260</y>
       <w>210</w>
       <h>30</h>
     </coordinates>
@@ -212,7 +212,7 @@ bg=blue</panel_attributes>
       <h>70</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Saisir les données dans la zone filtre
+Saisit les données dans la zone filtre
 </panel_attributes>
     <additional_attributes>390;50;30;50</additional_attributes>
   </element>

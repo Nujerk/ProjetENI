@@ -5,11 +5,11 @@
     <type>com.umlet.element.custom.InteractionFrame</type>
     <coordinates>
       <x>150</x>
-      <y>190</y>
+      <y>150</y>
       <w>740</w>
-      <h>600</h>
+      <h>640</h>
     </coordinates>
-    <panel_attributes>Créer un jury</panel_attributes>
+    <panel_attributes>Créer un juré</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -21,7 +21,7 @@
       <h>70</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Clique sur le bouton "Nouveau Jury"
+Clique sur le bouton "Nouveau Juré"
 </panel_attributes>
     <additional_attributes>370;50;30;50</additional_attributes>
   </element>
@@ -34,7 +34,7 @@ Clique sur le bouton "Nouveau Jury"
       <h>70</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Affiche la fenêtre JURY</panel_attributes>
+Affiche la fenêtre JURÉ</panel_attributes>
     <additional_attributes>30;50;370;50</additional_attributes>
   </element>
   <element>
@@ -106,7 +106,7 @@ Application Pédagogique</panel_attributes>
       <h>70</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Saisir les données du jury
+Saisit les données du juré
 </panel_attributes>
     <additional_attributes>370;50;30;50</additional_attributes>
   </element>
@@ -133,7 +133,7 @@ Cliquer sur le bouton "Valider"
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-
           Enregistre
-          le jury</panel_attributes>
+          le juré</panel_attributes>
     <additional_attributes>30;70;80;70;80;30;30;30</additional_attributes>
   </element>
   <element>
@@ -159,14 +159,14 @@ de l'enregistrement
       <h>70</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Affiche la fenêtre GESTION JURY</panel_attributes>
+Affiche la fenêtre GESTION JURÉ</panel_attributes>
     <additional_attributes>30;50;370;50</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.Note</type>
     <coordinates>
-      <x>760</x>
-      <y>400</y>
+      <x>750</x>
+      <y>490</y>
       <w>120</w>
       <h>30</h>
     </coordinates>
@@ -178,11 +178,11 @@ Vérification OK</panel_attributes>
     <type>com.umlet.element.Note</type>
     <coordinates>
       <x>150</x>
-      <y>150</y>
+      <y>190</y>
       <w>180</w>
       <h>30</h>
     </coordinates>
-    <panel_attributes>fenêtre GESTION JURY
+    <panel_attributes>fenêtre GESTION JURÉ
 bg=blue</panel_attributes>
     <additional_attributes/>
   </element>
@@ -308,7 +308,7 @@ Affiche la fenêtre HOMOLOGATION</panel_attributes>
       <h>70</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Saisir les données de l'homologation
+Saisit les données de l'homologation
 </panel_attributes>
     <additional_attributes>370;50;30;50</additional_attributes>
   </element>
@@ -371,7 +371,7 @@ Clique sur le bouton "Valider"
       <h>70</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Affiche la fenêtre JURY</panel_attributes>
+Affiche la fenêtre JURÉ</panel_attributes>
     <additional_attributes>30;50;370;50</additional_attributes>
   </element>
 </diagram>
