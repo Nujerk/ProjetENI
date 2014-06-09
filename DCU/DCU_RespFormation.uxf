@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="12.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>250</x>
+      <y>270</y>
+      <w>160</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>Demander 
+génération
+fiche synthèse
+résultats
+bg=default
+fg=black</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>140</x>
+      <y>110</y>
+      <w>90</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>Envoyer
+planning
+bg=default
+fg=black</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>290</x>
+      <y>370</y>
+      <w>160</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>Consulter avancement
+correction ECF
+bg=default
+fg=black</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>220</x>
+      <y>190</y>
+      <w>160</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>Demander génération
+planning hebdo
+bg=default
+fg=black</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>240</x>
+      <y>130</y>
+      <w>160</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>Demander génération
+planning formation
+bg=default
+fg=black</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>180</x>
+      <y>370</y>
+      <w>100</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Envoyer
+résultats
+bg=default
+fg=black</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>60</x>
+      <y>410</y>
+      <w>160</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>Enregistrer planning
+bg=default
+fg=black</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>90</x>
+      <y>120</y>
+      <w>90</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>bg=default
+fg=black</panel_attributes>
+    <additional_attributes>70;30;30;100</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>450</x>
+      <y>220</y>
+      <w>160</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>Demander génération
+planning
+bg=default
+fg=black</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>350</x>
+      <y>190</y>
+      <w>130</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+&lt;&lt;extends&gt;&gt;
+bg=default
+fg=black</panel_attributes>
+    <additional_attributes>110;50;30;40</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>360</x>
+      <y>130</y>
+      <w>160</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+&lt;&lt;extends&gt;&gt;
+bg=default
+fg=black</panel_attributes>
+    <additional_attributes>140;90;30;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Actor</type>
+    <coordinates>
+      <x>0</x>
+      <y>10</y>
+      <w>160</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>membre service
+pédagogique
+bg=default
+fg=black</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>50</x>
+      <y>100</y>
+      <w>50</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+bg=default
+fg=black</panel_attributes>
+    <additional_attributes>30;30;30;100</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Actor</type>
+    <coordinates>
+      <x>0</x>
+      <y>200</y>
+      <w>160</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>Responsable 
+de formation
+bg=default
+fg=black</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>90</x>
+      <y>10</y>
+      <w>100</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>bg=default
+fg=black</panel_attributes>
+    <additional_attributes>80;30;30;50</additional_attributes>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>180</x>
+      <y>20</y>
+      <w>30</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>...</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>90</x>
+      <y>130</y>
+      <w>170</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>bg=default
+fg=black</panel_attributes>
+    <additional_attributes>150;30;30;90</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>90</x>
+      <y>190</y>
+      <w>150</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>bg=default
+fg=black</panel_attributes>
+    <additional_attributes>130;30;30;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>90</x>
+      <y>190</y>
+      <w>140</w>
+      <h>200</h>
+    </coordinates>
+    <panel_attributes>bg=default
+fg=black</panel_attributes>
+    <additional_attributes>120;180;30;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>90</x>
+      <y>190</y>
+      <w>60</w>
+      <h>240</h>
+    </coordinates>
+    <panel_attributes>bg=default
+fg=black</panel_attributes>
+    <additional_attributes>40;220;30;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>90</x>
+      <y>190</y>
+      <w>240</w>
+      <h>210</h>
+    </coordinates>
+    <panel_attributes>bg=default
+fg=black</panel_attributes>
+    <additional_attributes>220;190;30;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>90</x>
+      <y>190</y>
+      <w>190</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>bg=default
+fg=black</panel_attributes>
+    <additional_attributes>170;100;30;30</additional_attributes>
+  </element>
+</diagram>
