@@ -4,8 +4,8 @@
   <element>
     <type>com.umlet.element.custom.InteractionFrame</type>
     <coordinates>
-      <x>40</x>
-      <y>290</y>
+      <x>110</x>
+      <y>270</y>
       <w>900</w>
       <h>330</h>
     </coordinates>
@@ -15,8 +15,8 @@
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>100</x>
-      <y>490</y>
+      <x>170</x>
+      <y>470</y>
       <w>410</w>
       <h>70</h>
     </coordinates>
@@ -28,8 +28,8 @@ Clique sur le bouton "Mail de validation"
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>90</x>
-      <y>380</y>
+      <x>160</x>
+      <y>360</y>
       <w>50</w>
       <h>250</h>
     </coordinates>
@@ -40,8 +40,8 @@ bg=default</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>470</x>
-      <y>380</y>
+      <x>540</x>
+      <y>360</y>
       <w>50</w>
       <h>250</h>
     </coordinates>
@@ -51,8 +51,8 @@ bg=default</panel_attributes>
   <element>
     <type>com.umlet.element.Class</type>
     <coordinates>
-      <x>410</x>
-      <y>370</y>
+      <x>480</x>
+      <y>350</y>
       <w>170</w>
       <h>40</h>
     </coordinates>
@@ -63,8 +63,8 @@ Application Pédagogique</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>100</x>
-      <y>530</y>
+      <x>170</x>
+      <y>510</y>
       <w>410</w>
       <h>94</h>
     </coordinates>
@@ -77,8 +77,8 @@ de l'envoie
   <element>
     <type>com.umlet.element.Class</type>
     <coordinates>
-      <x>60</x>
-      <y>370</y>
+      <x>130</x>
+      <y>350</y>
       <w>130</w>
       <h>40</h>
     </coordinates>
@@ -91,8 +91,8 @@ pédagogique CP
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>100</x>
-      <y>400</y>
+      <x>170</x>
+      <y>380</y>
       <w>410</w>
       <h>70</h>
     </coordinates>
@@ -104,8 +104,8 @@ Clique sur le bouton "Filtre"
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>100</x>
-      <y>430</y>
+      <x>170</x>
+      <y>410</y>
       <w>410</w>
       <h>70</h>
     </coordinates>
@@ -116,8 +116,8 @@ Retourne une liste de session</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>100</x>
-      <y>460</y>
+      <x>170</x>
+      <y>440</y>
       <w>410</w>
       <h>70</h>
     </coordinates>
@@ -129,8 +129,8 @@ Selectionne une session
   <element>
     <type>com.umlet.element.Class</type>
     <coordinates>
-      <x>790</x>
-      <y>370</y>
+      <x>860</x>
+      <y>350</y>
       <w>130</w>
       <h>40</h>
     </coordinates>
@@ -142,8 +142,8 @@ Stagiaire
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>820</x>
-      <y>380</y>
+      <x>890</x>
+      <y>360</y>
       <w>50</w>
       <h>250</h>
     </coordinates>
@@ -154,8 +154,8 @@ bg=default</panel_attributes>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
-      <x>480</x>
-      <y>510</y>
+      <x>550</x>
+      <y>490</y>
       <w>380</w>
       <h>70</h>
     </coordinates>
@@ -166,8 +166,8 @@ Envoie mail de validation de session</panel_attributes>
   <element>
     <type>com.umlet.element.Note</type>
     <coordinates>
-      <x>40</x>
-      <y>330</y>
+      <x>110</x>
+      <y>310</y>
       <w>210</w>
       <h>30</h>
     </coordinates>
@@ -178,8 +178,8 @@ bg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>110</x>
-      <y>440</y>
+      <x>180</x>
+      <y>420</y>
       <w>20</w>
       <h>20</h>
     </coordinates>
@@ -190,8 +190,8 @@ bg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>110</x>
-      <y>470</y>
+      <x>180</x>
+      <y>450</y>
       <w>20</w>
       <h>80</h>
     </coordinates>
@@ -202,8 +202,8 @@ bg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>110</x>
-      <y>570</y>
+      <x>180</x>
+      <y>550</y>
       <w>20</w>
       <h>20</h>
     </coordinates>
@@ -214,8 +214,8 @@ bg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>840</x>
-      <y>550</y>
+      <x>910</x>
+      <y>530</y>
       <w>20</w>
       <h>20</h>
     </coordinates>
@@ -226,8 +226,8 @@ bg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>490</x>
-      <y>440</y>
+      <x>560</x>
+      <y>420</y>
       <w>20</w>
       <h>50</h>
     </coordinates>
@@ -237,8 +237,8 @@ bg=blue</panel_attributes>
   <element>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
-      <x>490</x>
-      <y>500</y>
+      <x>560</x>
+      <y>480</y>
       <w>20</w>
       <h>90</h>
     </coordinates>
