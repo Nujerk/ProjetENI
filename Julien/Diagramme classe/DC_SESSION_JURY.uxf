@@ -33,12 +33,13 @@
       <x>476</x>
       <y>175</y>
       <w>147</w>
-      <h>49</h>
+      <h>56</h>
     </coordinates>
     <panel_attributes>Homologation
 --
 -titre: Titre
 -dateHomologation: Date
+-juré: Juré
 --
 </panel_attributes>
     <additional_attributes/>
@@ -103,7 +104,7 @@ EnumCivilite
       <x>728</x>
       <y>546</y>
       <w>147</w>
-      <h>98</h>
+      <h>84</h>
     </coordinates>
     <panel_attributes>PassageSession
 --
@@ -300,11 +301,12 @@ m2=1..1
       <x>245</x>
       <y>294</y>
       <w>147</w>
-      <h>42</h>
+      <h>49</h>
     </coordinates>
     <panel_attributes>Titre
 --
--Nom
+-nom
+-activité: List&lt;Activité&gt;
 --
 </panel_attributes>
     <additional_attributes/>
@@ -313,29 +315,29 @@ m2=1..1
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>294</x>
-      <y>315</y>
+      <y>322</y>
       <w>34</w>
-      <h>132</h>
+      <h>125</h>
     </coordinates>
     <panel_attributes>lt=-
 m1=1..n
 m2=1..1
 </panel_attributes>
-    <additional_attributes>21;119;21;21</additional_attributes>
+    <additional_attributes>21;112;21;21</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>371</x>
-      <y>203</y>
+      <y>210</y>
       <w>118</w>
-      <h>104</h>
+      <h>97</h>
     </coordinates>
     <panel_attributes>lt=-
 m1=1..1
 m2=0..n
 </panel_attributes>
-    <additional_attributes>21;91;105;21</additional_attributes>
+    <additional_attributes>21;84;105;21</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.Class</type>
