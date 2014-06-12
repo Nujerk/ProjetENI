@@ -1,0 +1,97 @@
+<mockup version="1.0" skin="sketch" measuredW="1098" measuredH="555" mockupW="500" mockupH="425">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="598" y="130" w="500" h="425" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Apllication%20P%E9dagogique</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="927" y="153" w="170" h="381" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="927" y="162" w="170" h="-1" measuredW="178" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-%20-%20-%20Candidats/Stagiaires%20-%20-%20-</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="937" y="463" w="154" h="-1" measuredW="134" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>G%E9rer%20les%20droits%20users</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="937" y="485" w="142" h="-1" measuredW="130" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>G%E9rer%20les%20roles%20users</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="927" y="279" w="170" h="-1" measuredW="184" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-%20-%20-%20-%20-%20-%20-%20-%20ECF%20-%20-%20-%20-%20-%20-%20-%20-%20-</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="927" y="360" w="170" h="-1" measuredW="177" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-%20-%20-%20Session%20de%20validation%20-%20-%20-</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="927" y="442" w="170" h="-1" measuredW="174" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-%20-%20-%20-%20-%20-%20Admistration%20-%20-%20-%20-%20-</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="937" y="422" w="142" h="-1" measuredW="141" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <text>Date%20de%20fin%20de%20formation</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="937" y="381" w="142" h="-1" measuredW="95" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>G%E9rer%20les%20jur%E9s</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="937" y="402" w="142" h="-1" measuredW="114" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>G%E9rer%20les%20sessions</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="937" y="301" w="142" h="-1" measuredW="97" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>G%E9rer%20les%20ECFs</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="937" y="320" w="142" h="-1" measuredW="110" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Planning%20des%20ECFs</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="937" y="340" w="142" h="-1" measuredW="122" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>G%E9rer%20les%20%E9preuves</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="937" y="184" w="142" h="-1" measuredW="75" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Rechercher</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="937" y="240" w="142" h="-1" measuredW="94" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Trombinoscope</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="927" y="202" w="170" h="-1" measuredW="176" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-%20-%20-%20-%20Modules%20de%20cours%20-%20-%20-%20-</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="937" y="259" w="142" h="-1" measuredW="51" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Planning</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="937" y="221" w="154" h="-1" measuredW="98" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>G%E9rer%20les%20salles</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

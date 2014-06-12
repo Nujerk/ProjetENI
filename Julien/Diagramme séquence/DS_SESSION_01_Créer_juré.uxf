@@ -7,7 +7,7 @@
       <x>150</x>
       <y>150</y>
       <w>740</w>
-      <h>640</h>
+      <h>450</h>
     </coordinates>
     <panel_attributes>Créer un juré</panel_attributes>
     <additional_attributes/>
@@ -56,10 +56,10 @@ LY Nadine
       <x>210</x>
       <y>240</y>
       <w>50</w>
-      <h>550</h>
+      <h>370</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>30;30;30;530</additional_attributes>
+    <additional_attributes>30;30;30;350</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.Relation</type>
@@ -67,10 +67,10 @@ LY Nadine
       <x>570</x>
       <y>240</y>
       <w>50</w>
-      <h>550</h>
+      <h>370</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>30;30;30;530</additional_attributes>
+    <additional_attributes>30;30;30;350</additional_attributes>
   </element>
   <element>
     <type>com.umlet.element.Class</type>
@@ -88,7 +88,7 @@ Application Pédagogique</panel_attributes>
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>570</x>
-      <y>580</y>
+      <y>390</y>
       <w>176</w>
       <h>94</h>
     </coordinates>
@@ -114,7 +114,7 @@ Saisit les données du juré
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>220</x>
-      <y>560</y>
+      <y>370</y>
       <w>390</w>
       <h>70</h>
     </coordinates>
@@ -127,7 +127,7 @@ Cliquer sur le bouton "Valider"
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>580</x>
-      <y>640</y>
+      <y>450</y>
       <w>150</w>
       <h>94</h>
     </coordinates>
@@ -140,7 +140,7 @@ Cliquer sur le bouton "Valider"
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>220</x>
-      <y>660</y>
+      <y>470</y>
       <w>390</w>
       <h>94</h>
     </coordinates>
@@ -154,7 +154,7 @@ de l'enregistrement
     <type>com.umlet.element.Relation</type>
     <coordinates>
       <x>220</x>
-      <y>700</y>
+      <y>510</y>
       <w>390</w>
       <h>70</h>
     </coordinates>
@@ -166,7 +166,7 @@ Affiche la fenêtre GESTION JURÉ</panel_attributes>
     <type>com.umlet.element.Note</type>
     <coordinates>
       <x>750</x>
-      <y>490</y>
+      <y>430</y>
       <w>120</w>
       <h>30</h>
     </coordinates>
@@ -192,7 +192,7 @@ bg=blue</panel_attributes>
       <x>230</x>
       <y>320</y>
       <w>20</w>
-      <h>80</h>
+      <h>110</h>
     </coordinates>
     <panel_attributes>bg=yellow</panel_attributes>
     <additional_attributes/>
@@ -223,31 +223,9 @@ bg=blue</panel_attributes>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
       <x>590</x>
-      <y>600</y>
-      <w>20</w>
-      <h>160</h>
-    </coordinates>
-    <panel_attributes>bg=red</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <type>com.umlet.element.custom.SeqObjectActive</type>
-    <coordinates>
-      <x>230</x>
-      <y>680</y>
-      <w>20</w>
-      <h>80</h>
-    </coordinates>
-    <panel_attributes>bg=yellow</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <type>com.umlet.element.custom.SeqObjectActive</type>
-    <coordinates>
-      <x>590</x>
       <y>350</y>
       <w>20</w>
-      <h>80</h>
+      <h>220</h>
     </coordinates>
     <panel_attributes>bg=red</panel_attributes>
     <additional_attributes/>
@@ -256,9 +234,9 @@ bg=blue</panel_attributes>
     <type>com.umlet.element.custom.SeqObjectActive</type>
     <coordinates>
       <x>230</x>
-      <y>570</y>
+      <y>490</y>
       <w>20</w>
-      <h>60</h>
+      <h>80</h>
     </coordinates>
     <panel_attributes>bg=yellow</panel_attributes>
     <additional_attributes/>
@@ -272,106 +250,8 @@ bg=blue</panel_attributes>
       <h>70</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-
-Clique sur le bouton "Ajouter Homologation"
+Remplit le tableau homologation
 </panel_attributes>
     <additional_attributes>370;50;30;50</additional_attributes>
-  </element>
-  <element>
-    <type>com.umlet.element.Relation</type>
-    <coordinates>
-      <x>220</x>
-      <y>370</y>
-      <w>390</w>
-      <h>70</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;&lt;-
-Affiche la fenêtre HOMOLOGATION</panel_attributes>
-    <additional_attributes>30;50;370;50</additional_attributes>
-  </element>
-  <element>
-    <type>com.umlet.element.custom.SeqObjectActive</type>
-    <coordinates>
-      <x>230</x>
-      <y>410</y>
-      <w>20</w>
-      <h>80</h>
-    </coordinates>
-    <panel_attributes>bg=yellow</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <type>com.umlet.element.Relation</type>
-    <coordinates>
-      <x>220</x>
-      <y>400</y>
-      <w>390</w>
-      <h>70</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;&lt;-
-Saisit les données de l'homologation
-</panel_attributes>
-    <additional_attributes>370;50;30;50</additional_attributes>
-  </element>
-  <element>
-    <type>com.umlet.element.Relation</type>
-    <coordinates>
-      <x>220</x>
-      <y>430</y>
-      <w>390</w>
-      <h>70</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;&lt;-
-Clique sur le bouton "Valider"
-</panel_attributes>
-    <additional_attributes>370;50;30;50</additional_attributes>
-  </element>
-  <element>
-    <type>com.umlet.element.custom.SeqObjectActive</type>
-    <coordinates>
-      <x>590</x>
-      <y>440</y>
-      <w>20</w>
-      <h>150</h>
-    </coordinates>
-    <panel_attributes>bg=red</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <type>com.umlet.element.Relation</type>
-    <coordinates>
-      <x>570</x>
-      <y>450</y>
-      <w>176</w>
-      <h>94</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-
-          Vérification
-          des données</panel_attributes>
-    <additional_attributes>40;70;90;70;90;30;40;30</additional_attributes>
-  </element>
-  <element>
-    <type>com.umlet.element.Relation</type>
-    <coordinates>
-      <x>560</x>
-      <y>510</y>
-      <w>186</w>
-      <h>94</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-
-          Enregistre
-          l'homologation</panel_attributes>
-    <additional_attributes>40;70;100;70;100;30;50;30</additional_attributes>
-  </element>
-  <element>
-    <type>com.umlet.element.Relation</type>
-    <coordinates>
-      <x>220</x>
-      <y>530</y>
-      <w>390</w>
-      <h>70</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;&lt;-
-Affiche la fenêtre JURÉ</panel_attributes>
-    <additional_attributes>30;50;370;50</additional_attributes>
   </element>
 </diagram>
